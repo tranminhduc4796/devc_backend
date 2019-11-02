@@ -11,13 +11,25 @@ Relationships between models:
 ><: Many to Many
 
 User -< Transactions
-Brands -< Shops, Items
-Item >< Tractions
+Brands -< Shops
+Brands -< Items
+Item >< Transactions
+Item >< Categories
 '''
+
+
+class Categories(models.Model):
+    name = models.CharField()
+
+    def __str__(self):
+        return self.name
 
 
 class Brands(models.Model):
     name = models.CharField()
+
+    def __str__(self):
+        return self.name
 
 
 class Shops(models.Model):
@@ -26,19 +38,31 @@ class Shops(models.Model):
     brand = models.ForeignKey(
         Brands, on_delete=models.CASCADE, blank=False, related_name="shops")
 
+    def __str__(self):
+        return self.brand + ": " + self.address
+
 
 class Items(models.Model):
     name = models.TextField()
-    categories = ArrayField(models.CharField())
+    price = models.FloatField()
+    # Many to many with Categories. With a Categories instance, list of items can be gotten by Categories.items.all()
+    categories = models.ManyToManyField(Categories, related_name='items')
     # Many to one with Brands. With a Brand instance, list of items can be gotten by Brand.menu.all()
     brand = models.ForeignKey(
         Brands, on_delete=models.CASCADE, blank=False, related_name="menu")
 
+    def __str__(self):
+        return self.name + ' - ' + self.categories + ' - ' + self.price
+
 
 class Transactions(models.Model):
     user = models.ForeignKey(User, on_delete=models.CASCADE, blank=False)
-    date = models.DateTimeField(auto_now_add=True)
+    datetime = models.DateTimeField(auto_now_add=True)
     # Many to one with Shops
     shop = models.ForeignKey(Shops, on_delete=models.CASCADE, blank=False)
     # Many to many with Items
-    item = models.ManyToManyField(Items, blank=False)
+    item = models.ManyToManyField(
+        Items, blank=False, related_name='transactions')
+
+    def __str__(self):
+        return self.datetime + ', ' + self.user + ' bought ' + self.item + ' at ' + self.shop
