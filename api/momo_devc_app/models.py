@@ -22,6 +22,7 @@ class Brands(models.Model):
 
 class Shops(models.Model):
     address = models.CharField()
+    # Many to one with Brands. With a Brand instance, list of shops can be gotten by Brand.shops.all()
     brand = models.ForeignKey(
         Brands, on_delete=models.CASCADE, blank=False, related_name="shops")
 
@@ -29,6 +30,7 @@ class Shops(models.Model):
 class Items(models.Model):
     name = models.TextField()
     categories = ArrayField(models.CharField())
+    # Many to one with Brands. With a Brand instance, list of items can be gotten by Brand.menu.all()
     brand = models.ForeignKey(
         Brands, on_delete=models.CASCADE, blank=False, related_name="menu")
 
@@ -36,5 +38,7 @@ class Items(models.Model):
 class Transactions(models.Model):
     user = models.ForeignKey(User, on_delete=models.CASCADE, blank=False)
     date = models.DateTimeField(auto_now_add=True)
+    # Many to one with Shops
     shop = models.ForeignKey(Shops, on_delete=models.CASCADE, blank=False)
+    # Many to many with Items
     item = models.ManyToManyField(Items, blank=False)
