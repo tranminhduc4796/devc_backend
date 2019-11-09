@@ -1,5 +1,4 @@
 from django.test import TestCase
-from .models import Transactions, Users, Shops
-from rest_framework.test import APITestcase, APIClient
+from .models import Transaction, User, Shop
 
 # Create your tests here.
