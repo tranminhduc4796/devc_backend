@@ -1,6 +1,7 @@
 from django.contrib import admin
-from .models import Merchant, Shop, Item, Transaction, Category
+from .models import User, Merchant, Shop, Item, Transaction, Category
 
+admin.site.register(User)
 admin.site.register(Merchant)
 admin.site.register(Shop)
 admin.site.register(Item)

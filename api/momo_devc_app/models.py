@@ -1,5 +1,6 @@
 from django.db import models
-
+from django.contrib.auth.models import AbstractUser
+from django.contrib.gis.db import models as geomodels
 
 '''
 Relationships between models:
@@ -16,10 +17,8 @@ Item >< Category
 '''
 
 
-class User(models.Model):
-    username = models.CharField(max_length=50)
-    pwd = models.CharField(min_length=8, max_length=16)
-    email = models.EmailField()
+class User(AbstractUser):
+    embedding = models.TextField()
 
 
 class Category(models.Model):
@@ -37,31 +36,33 @@ class Merchant(models.Model):
 
 
 class Shop(models.Model):
-    address = models.CharField(max_length=50)
+    location = geomodels.PointField(unique=True, blank=False, null=False)
+    address = models.CharField(max_length=150)
     # Many to one with Merchant. With a Merchant instance, list of shops can be gotten by Merchant.shops.all()
-    brand = models.ForeignKey(
+    merchant = models.ForeignKey(
         Merchant, on_delete=models.CASCADE, blank=False, related_name="shops")
 
     def __str__(self):
-        return str(self.brand) + ": " + self.address
+        return str(self.merchant) + ": " + str(self.address)
 
 
 class Item(models.Model):
-    name = models.TextField()
+    name = models.CharField(max_length=150)
     price = models.FloatField()
+    embedding = models.TextField()
     # Many to many with Category. With a Category instance, list of items can be gotten by Category.items.all()
     categories = models.ManyToManyField(Category, related_name='items')
     # Many to one with Merchant. With a Merchant instance, list of items can be gotten by Merchant.menu.all()
-    brand = models.ForeignKey(
+    merchant = models.ForeignKey(
         Merchant, on_delete=models.CASCADE, blank=False, related_name="menu")
 
     def __str__(self):
-        return self.name + ' - ' + str(self.brand) + ' - ' + str(self.price)
+        return str(self.name) + ' - ' + str(self.merchant) + ' - ' + str(self.price)
 
 
 class Transaction(models.Model):
     user = models.ForeignKey(User, on_delete=models.CASCADE, blank=False)
-    datetime = models.DateTimeField(auto_now_add=True)
+    created = models.DateTimeField(auto_now_add=True)
     # Many to one with Shop
     shop = models.ForeignKey(Shop, on_delete=models.CASCADE, blank=False)
     # Many to many with Item
@@ -69,4 +70,7 @@ class Transaction(models.Model):
         Item, blank=False, related_name='transactions')
 
     def __str__(self):
-        return str(self.datetime) + ', ' + str(self.user) + ' bought ' + str(self.item) + ' at ' + str(self.shop)
+        return str(self.created) + ', ' + str(self.user) + ' bought ' + str(self.item) + ' at ' + str(self.shop)
+
+    class Meta:
+        ordering = ['created']
