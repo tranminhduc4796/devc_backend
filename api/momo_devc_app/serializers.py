@@ -8,7 +8,15 @@ class UserSerializer(serializers.ModelSerializer):
         fields = ['id', 'email', 'embedding']
 
 
+class CategorySerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Category
+        fields = '__all__'
+
+
 class ItemSerializer(serializers.ModelSerializer):
+    categories: CategorySerializer(many=True, read_only=True)
+
     class Meta:
         model = Item
         fields = '__all__'
@@ -27,12 +35,6 @@ class ShopSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Shop
-        fields = '__all__'
-
-
-class CategorySerializer(serializers.ModelSerializer):
-    class Meta:
-        model = Category
         fields = '__all__'
 
 

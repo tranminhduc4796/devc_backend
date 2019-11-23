@@ -1,6 +1,6 @@
 from django.db import models
 from django.contrib.auth.models import AbstractUser
-from django.contrib.gis.db import models as geomodels
+from django.contrib.gis.db import models as geo_models
 
 '''
 Relationships between models:
@@ -13,7 +13,7 @@ User -< Transactions
 Merchant -< Shop
 Merchant -< Item
 Item >< Transactions
-Item >< Category
+Item -< Category
 '''
 
 
@@ -36,25 +36,31 @@ class Merchant(models.Model):
 
 
 class Shop(models.Model):
-    location = geomodels.PointField(unique=True, blank=False, null=False)
+    location = geo_models.PointField(unique=True, blank=False, null=False)
     address = models.CharField(max_length=150)
     # Many to one with Merchant. With a Merchant instance, list of shops can be gotten by Merchant.shops.all()
     merchant = models.ForeignKey(
         Merchant, on_delete=models.CASCADE, blank=False, related_name="shops")
 
+    class Meta:
+        ordering = ['location']
+
     def __str__(self):
-        return str(self.merchant) + ": " + str(self.address)
+        return str(self.merchant) + ": " + str(self.address) + ": " + str(self.location)
 
 
 class Item(models.Model):
     name = models.CharField(max_length=150)
     price = models.FloatField()
     embedding = models.TextField()
-    # Many to many with Category. With a Category instance, list of items can be gotten by Category.items.all()
-    categories = models.ManyToManyField(Category, related_name='items')
+    # Many to one with Category. With a Category instance, list of items can be gotten by Category.items.all()
+    category = models.ForeignKey(Category, on_delete=models.CASCADE, related_name='items')
     # Many to one with Merchant. With a Merchant instance, list of items can be gotten by Merchant.menu.all()
     merchant = models.ForeignKey(
         Merchant, on_delete=models.CASCADE, blank=False, related_name="menu")
+
+    class Meta:
+        ordering = ['category']
 
     def __str__(self):
         return str(self.name) + ' - ' + str(self.merchant) + ' - ' + str(self.price)
@@ -68,6 +74,7 @@ class Transaction(models.Model):
     # Many to many with Item
     item = models.ManyToManyField(
         Item, blank=False, related_name='transactions')
+    solved = models.BooleanField(default=False)
 
     def __str__(self):
         return str(self.created) + ', ' + str(self.user) + ' bought ' + str(self.item) + ' at ' + str(self.shop)
