@@ -16,8 +16,6 @@ class ListCreate(ListCreateAPIView):
     def create(self, request, *args, **kwargs):
         transaction = Transaction(user=self.request.user)
         serializer = self.serializer_class(transaction, data=request.data)
-        print(serializer)
-        print(serializer.is_valid())
         if serializer.is_valid():
             serializer.save()
             return Response(serializer.data, status=status.HTTP_201_CREATED)
