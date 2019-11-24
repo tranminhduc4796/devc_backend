@@ -76,8 +76,5 @@ class Transaction(models.Model):
         Item, blank=False, related_name='transactions')
     solved = models.BooleanField(default=False)
 
-    def __str__(self):
-        return str(self.created) + ', ' + str(self.user) + ' bought ' + str(self.item) + ' at ' + str(self.shop)
-
     class Meta:
         ordering = ['created']
