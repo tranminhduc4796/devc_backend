@@ -1,5 +1,5 @@
 from django.db import models
-from django.contrib.auth.models import AbstractUser
+from django.contrib.auth.models import User
 from django.contrib.gis.db import models as geo_models
 
 '''
@@ -17,8 +17,12 @@ Item -< Category
 '''
 
 
-class User(AbstractUser):
-    embedding = models.TextField()
+class Profile(User):
+    user = models.OneToOneField(User, on_delete=models.CASCADE, related_name="profile", parent_link=True)
+    embedding = models.TextField(blank=True, null=True)
+
+    def __str__(self):
+        return self.user.username
 
 
 class Category(models.Model):
@@ -67,7 +71,7 @@ class Item(models.Model):
 
 
 class Transaction(models.Model):
-    user = models.ForeignKey(User, on_delete=models.CASCADE, blank=False)
+    user = models.ForeignKey(Profile, on_delete=models.CASCADE, blank=False)
     created = models.DateTimeField(auto_now_add=True)
     # Many to one with Shop
     shop = models.ForeignKey(Shop, on_delete=models.CASCADE, blank=False)
