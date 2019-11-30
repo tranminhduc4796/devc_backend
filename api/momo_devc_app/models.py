@@ -17,8 +17,8 @@ Item -< Category
 '''
 
 
-class Profile(User):
-    user = models.OneToOneField(User, on_delete=models.CASCADE, related_name="profile", parent_link=True)
+class Profile(models.Model):
+    user = models.OneToOneField(User, on_delete=models.CASCADE, related_name="profile")
     embedding = models.TextField(blank=True, null=True)
 
     def __str__(self):

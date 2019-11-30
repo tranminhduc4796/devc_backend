@@ -10,8 +10,8 @@ urlpatterns = [
     path('shops/', shop_views.List.as_view()),
     path('transactions/', transaction_views.ListCreate.as_view()),
     path('transactions/<int:pk>', transaction_views.RetrieveUpdateDestroy.as_view()),
-    path('profile/', profile_views.Create.as_view()),
-    path('profile/<int:pk>', profile_views.RetrieveUpdateDestroy.as_view())
+    path('profile/', profile_views.ListCreate.as_view()),
+    path('profile/<int:user_pk>', profile_views.Update.as_view())
 ]
 
 
