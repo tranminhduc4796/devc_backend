@@ -34,6 +34,8 @@ class Category(models.Model):
 
 class Merchant(models.Model):
     name = models.CharField(max_length=50)
+    promotion_img_path = models.TextField(blank=True)
+    promotion_detail = models.TextField(blank=True)
 
     def __str__(self):
         return self.name
@@ -56,12 +58,13 @@ class Shop(models.Model):
 class Item(models.Model):
     name = models.CharField(max_length=150)
     price = models.FloatField()
-    embedding = models.TextField()
+    embedding = models.TextField(blank=True)
     # Many to one with Category. With a Category instance, list of items can be gotten by Category.items.all()
     category = models.ForeignKey(Category, on_delete=models.CASCADE, related_name='items')
     # Many to one with Merchant. With a Merchant instance, list of items can be gotten by Merchant.menu.all()
     merchant = models.ForeignKey(
         Merchant, on_delete=models.CASCADE, blank=False, related_name="menu")
+    img_url = models.TextField(blank=True)
 
     class Meta:
         ordering = ['category']
