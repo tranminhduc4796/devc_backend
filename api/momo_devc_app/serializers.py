@@ -41,6 +41,10 @@ class MerchantSerializer(serializers.ModelSerializer):
 
 class ShopSerializer(serializers.ModelSerializer):
     merchant = MerchantSerializer(read_only=True)
+    coordinate = serializers.SerializerMethodField('get_xy')
+
+    def get_xy(self, shop):
+        return shop.location.coords
 
     class Meta:
         model = Shop
