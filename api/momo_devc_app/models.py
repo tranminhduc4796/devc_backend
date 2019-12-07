@@ -77,7 +77,7 @@ class Transaction(models.Model):
     user = models.ForeignKey(Profile, on_delete=models.CASCADE, blank=False)
     created = models.DateTimeField(auto_now_add=True)
     # Many to one with Shop
-    shop = models.ForeignKey(Shop, on_delete=models.CASCADE, blank=False)
+    shop = models.ForeignKey(Shop, on_delete=models.CASCADE, blank=True, null=True)
     # Many to many with Item
     item = models.ManyToManyField(
         Item, blank=False, related_name='transactions')

@@ -1,9 +1,10 @@
 from rest_framework.generics import ListCreateAPIView, RetrieveUpdateDestroyAPIView
 from rest_framework.permissions import IsAuthenticated
 from ..serializers import TransactionSerializer
-from ..models import Transaction
+from ..models import Transaction, Profile
 from rest_framework.response import Response
 from rest_framework import status
+from django.shortcuts import get_object_or_404
 
 
 class ListCreate(ListCreateAPIView):
@@ -11,10 +12,12 @@ class ListCreate(ListCreateAPIView):
     permission_classes = [IsAuthenticated]
 
     def get_queryset(self):
-        return Transaction.objects.filter(user=self.request.user)
+        user = get_object_or_404(Profile, user=self.request.user)
+        return Transaction.objects.filter(user=user)
 
     def create(self, request, *args, **kwargs):
-        transaction = Transaction(user=self.request.user)
+        user = get_object_or_404(Profile, user=self.request.user)
+        transaction = Transaction(user=user)
         serializer = self.serializer_class(transaction, data=request.data)
         if serializer.is_valid():
             serializer.save()

@@ -52,10 +52,18 @@ class ShopSerializer(serializers.ModelSerializer):
 
 
 class TransactionSerializer(serializers.ModelSerializer):
-    item = ItemSerializer(read_only=True, many=True)
-    shop = ShopSerializer(read_only=True, many=True)
 
     class Meta:
         model = Transaction
         fields = '__all__'
         extra_kwargs = {'user': {'required': False}}
+
+    def to_representation(self, instance):
+        ret = super().to_representation(instance)
+        items = [Item.objects.get(pk=i) for i in ret['item']]
+        shop = Shop.objects.get(pk=ret['shop'])
+        item_serializer = ItemSerializer(items, many=True, read_only=True)
+        shop_serializer = ShopSerializer(shop, read_only=True)
+        ret['item'] = item_serializer.data
+        ret['shop'] = shop_serializer.data
+        return ret
