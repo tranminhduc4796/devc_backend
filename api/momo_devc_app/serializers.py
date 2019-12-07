@@ -52,6 +52,9 @@ class ShopSerializer(serializers.ModelSerializer):
 
 
 class TransactionSerializer(serializers.ModelSerializer):
+    item = ItemSerializer(read_only=True, many=True)
+    shop = ShopSerializer(read_only=True, many=True)
+
     class Meta:
         model = Transaction
         fields = '__all__'
