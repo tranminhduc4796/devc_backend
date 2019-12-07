@@ -80,7 +80,7 @@ class Transaction(models.Model):
     shop = models.ForeignKey(Shop, on_delete=models.CASCADE, blank=True, null=True)
     # Many to many with Item
     item = models.ManyToManyField(
-        Item, blank=False, related_name='transactions')
+        Item, blank=True, related_name='transactions')
     solved = models.BooleanField(default=False)
 
     class Meta:

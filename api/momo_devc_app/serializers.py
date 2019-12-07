@@ -1,6 +1,7 @@
 from rest_framework import serializers
 from .models import Profile, Merchant, Shop, Item, Category, Transaction
 from django.contrib.auth.models import User
+from django.core.exceptions import ObjectDoesNotExist
 
 
 class UserSerializer(serializers.ModelSerializer):
@@ -60,10 +61,13 @@ class TransactionSerializer(serializers.ModelSerializer):
 
     def to_representation(self, instance):
         ret = super().to_representation(instance)
-        items = [Item.objects.get(pk=i) for i in ret['item']]
-        shop = Shop.objects.get(pk=ret['shop'])
-        item_serializer = ItemSerializer(items, many=True, read_only=True)
-        shop_serializer = ShopSerializer(shop, read_only=True)
-        ret['item'] = item_serializer.data
-        ret['shop'] = shop_serializer.data
+        try:
+            items = [Item.objects.get(pk=i) for i in ret['item']]
+            shop = Shop.objects.get(pk=ret['shop'])
+            item_serializer = ItemSerializer(items, many=True, read_only=True)
+            shop_serializer = ShopSerializer(shop, read_only=True)
+            ret['item'] = item_serializer.data
+            ret['shop'] = shop_serializer.data
+        except ObjectDoesNotExist:
+            pass
         return ret
