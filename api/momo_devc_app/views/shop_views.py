@@ -3,8 +3,8 @@ from rest_framework.permissions import IsAuthenticated
 from ..serializers import ShopSerializer, ScanShopSerializer
 from ..models import Shop, Transaction, Profile
 from django.contrib.gis.geos import Point
-from django.contrib.gis.measure import Distance
-
+from django.contrib.gis.measure import Distance as D
+from django.contrib.gis.db.models.functions import Distance
 
 class ScanInRadius(ListAPIView):
     serializer_class = ScanShopSerializer
@@ -20,7 +20,8 @@ class ScanInRadius(ListAPIView):
         rad = self.request.query_params.get('rad', 10)
 
         point = Point((long, lat), srid=4326)
-        shops = Shop.objects.filter(location__distance_lte=(point, Distance(km=rad))).order_by('location')
+        shops = Shop.objects.filter(location__distance_lte=(point, D(km=rad))).annotate(
+            distance=Distance("location", point)).order_by("distance")
         for shop in shops:
             shop.icon = 'normal'
             num_transaction = Transaction.objects.filter(shop=shop).count()
