@@ -1,5 +1,5 @@
 from django.core.management.base import BaseCommand, CommandError
-from momo_devc_app.models import Merchant, Item
+from momo_devc_app.models import Merchant, Item, Category
 from django.contrib.gis.geos import Point
 import csv
 
@@ -18,17 +18,16 @@ class Command(BaseCommand):
                 item_name = row[2]
                 price = row[3]
                 img_url = row[4]
-                category = row[5]
-                try:
-                    merchant = Merchant.objects.get(name=merchant_name)
-                    item = item.get_or_create(
-                        name=item_name,
-                        price=price,
-                        img_url=img_url,
-                        category=category,
-                        merchant=merchant
-                    )
-                except:
-                    print(merchant_name)
+                category_name = row[5]
+                category = Category.objects.get_or_create(name=category_name)[0]
+                print(merchant_name)
+                merchant = Merchant.objects.get(name=merchant_name)
+                item = Item.objects.get_or_create(
+                    name=item_name,
+                    price=price,
+                    img_url=img_url,
+                    category=category,
+                    merchant=merchant
+                )
 
 
