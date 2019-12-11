@@ -18,7 +18,7 @@ class ScanInRadius(ListAPIView):
         long = float(long)
         rad = self.request.query_params.get('rad', 10)
 
-        point = Point((lat, long), srid=4326)
+        point = Point((long, lat), srid=4326)
         shops = Shop.objects.filter(location__distance_lte=(point, Distance(km=rad)))
         return shops
 

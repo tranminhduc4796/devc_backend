@@ -42,7 +42,7 @@ class Merchant(models.Model):
 
 
 class Shop(models.Model):
-    location = geo_models.PointField(unique=True, blank=False, null=False)
+    location = geo_models.PointField(blank=False, null=False)
     address = models.CharField(max_length=150)
     # Many to one with Merchant. With a Merchant instance, list of shops can be gotten by Merchant.shops.all()
     merchant = models.ForeignKey(

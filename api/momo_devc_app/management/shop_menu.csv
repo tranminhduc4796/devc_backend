@@ -1,0 +1,531 @@
+service_id,Group_store,Item,Price,URL_Image
+3856987200481659347,3T COFFEE,Cherry Macchiato,55000,https://product.hstatic.net/1000075078/product/cherry_mac_6a3403fdb832464da88de8c6e6ddf662_master.jpg
+3856987200481659347,3T COFFEE,Lemon Macchiato,55000,https://product.hstatic.net/1000075078/product/xoai_mac_c4534cc7607f4d58addf470a162e8359_master.jpg
+3856987200481659347,3T COFFEE,Cold Brew Milk Macchiato,50000,https://product.hstatic.net/1000075078/product/coldbrewmacchiato_af7dc44ed71b4856bfe48a756ed939e6_master.jpg
+3856987200481659347,3T COFFEE,Phuc Bon Tu Cam Da Xay,59000,https://product.hstatic.net/1000075078/product/daxay_raspberry_01685c63649740678352a348f8b281a1_master.png
+3856987200481659347,3T COFFEE,Cold Brew Phuc Bon Tu,50000,https://product.hstatic.net/1000075078/product/coldbrew_raspberry_ac577fc483484f0cb4e35efe6bf14426_master.png
+3856987200481659347,3T COFFEE,Caramel Macchiato,55000,https://product.hstatic.net/1000075078/product/caramel_macchiato_b6f694f469794e12b04a91845f5fce2d_master.jpg
+3856987200481659347,3T COFFEE,Tra Dao Cam Sa,45000,https://product.hstatic.net/1000075078/product/tra_dao_cam_sa_on_bg_master.jpg
+3856987200481659347,3T COFFEE,Ca Phe Den,29000,https://product.hstatic.net/1000075078/product/vnese_coffee_master.jpg
+3856987200481659347,3T COFFEE,Cappucino,45000,https://product.hstatic.net/1000075078/product/cappuccino_master.jpg
+3856987200481659347,3T COFFEE,Latte Matcha,59000,https://product.hstatic.net/1000075078/product/matcha_latte_master.jpg
+7508698289722542420,ALTO COFFEE,Hồng Trà Royal Kem Cheese,47000,http://royaltea.com.vn/wp-content/uploads/2017/05/20-600x450.jpg
+7508698289722542420,ALTO COFFEE,Trà Earl Grey Kem Cheese,47000,http://royaltea.com.vn/wp-content/uploads/2017/05/18-600x450.jpg
+7508698289722542420,ALTO COFFEE,Trà Ô Long Royal Kem Cheese,53000,http://royaltea.com.vn/wp-content/uploads/2017/04/jj-600x450.jpg
+7508698289722542420,ALTO COFFEE,Trà Sữa Khoai Môn Tươi,48000,http://royaltea.com.vn/wp-content/uploads/2017/12/ts-khoai-m%C3%B4n-1-600x600.jpg
+7508698289722542420,ALTO COFFEE,Trà Sữa Kem Cheese,45000,http://royaltea.com.vn/wp-content/uploads/2017/05/13-600x450.jpg
+7508698289722542420,ALTO COFFEE,Trà Sữa Trân Châu Cake Cream,53000,http://royaltea.com.vn/wp-content/uploads/2017/05/30-600x450.jpg
+7508698289722542420,ALTO COFFEE,Trà Sữa Double Oreo,43000,http://royaltea.com.vn/wp-content/uploads/2017/05/41-600x450.jpg
+7508698289722542420,ALTO COFFEE,Trà Đen Chanh Leo Nước Ổi,43000,http://royaltea.com.vn/wp-content/uploads/2017/05/8-600x450.jpg
+7508698289722542420,ALTO COFFEE,Trà Xanh Chanh Leo Kim Quất Mật Ong,43000,http://royaltea.com.vn/wp-content/uploads/2017/05/Post-2-600x600.gif
+7508698289722542420,ALTO COFFEE,Trà Xanh Kiwi Newzealand,53000,http://royaltea.com.vn/wp-content/uploads/2018/07/kiwi1.jpg
+1541760682999376676,Apsara Cafe,Dâu tằm kem phô mai,48000,http://product.hstatic.net/1000360860/product/dautamkpm_9ed711a06bbe445caaa539c10c8521a8_master.jpg
+1541760682999376676,Apsara Cafe,SỮA TƯƠI CHÂN TRÂU ĐƯỜNG HỔ,48000,http://product.hstatic.net/1000360860/product/duongho_39b347d233284894acb95ae7f99a0af3_master.jpg
+1541760682999376676,Apsara Cafe,Cacao SOCOLA,45000,http://product.hstatic.net/1000360860/product/socola_911914e9f6674e39ab583a3024e0cd8c_master.jpg
+1541760682999376676,Apsara Cafe,HỒNG TRÀ KEM PHOMAI,45000,http://product.hstatic.net/1000360860/product/hongtrakpm_37b2bf93523342a08b2184bb71a7fc78_master.jpg
+1541760682999376676,Apsara Cafe,TRÀ NHẬT ĐẬU ĐỎ,49000,http://product.hstatic.net/1000360860/product/tsnhat_4c62a0a891b94700bedeeeeb5f6b8ab6_master.png
+1541760682999376676,Apsara Cafe,TRÀ SỮA PANDA,46000,http://product.hstatic.net/1000360860/product/panda_6dbae72a6f8e40deb8af33ecad39e515_master.jpg
+1541760682999376676,Apsara Cafe,TRÀ SỮA BẠC HÀ,40000,http://product.hstatic.net/1000360860/product/bacha_0977b3c4fef04f8d8e909ce579fb1c12_master.jpg
+1541760682999376676,Apsara Cafe,Yakult Chanh Leo,42000,http://product.hstatic.net/1000360860/product/yakult-cday_ff8300d49a714625aa63d1125d50ab0d_master.png
+1541760682999376676,Apsara Cafe,Yakult Trà Xanh,42000,http://product.hstatic.net/1000360860/product/yakult-tx_5e6fbdf13dab48f2b5c34fa9fcf6b034_master.png
+1541760682999376676,Apsara Cafe,Yakult Xoài,42000,http://product.hstatic.net/1000360860/product/yakult-xoai_1277bdb10d6e4c0db0c89645147a3ade_master.png
+6835189764919746072,B59 COFFEE,Hồng Trà Royal Kem Cheese,47000,http://royaltea.com.vn/wp-content/uploads/2017/05/20-600x450.jpg
+6835189764919746072,B59 COFFEE,Trà Earl Grey Kem Cheese,47000,http://royaltea.com.vn/wp-content/uploads/2017/05/18-600x450.jpg
+6835189764919746072,B59 COFFEE,Trà Ô Long Royal Kem Cheese,53000,http://royaltea.com.vn/wp-content/uploads/2017/04/jj-600x450.jpg
+6835189764919746072,B59 COFFEE,Trà Sữa Khoai Môn Tươi,48000,http://royaltea.com.vn/wp-content/uploads/2017/12/ts-khoai-m%C3%B4n-1-600x600.jpg
+6835189764919746072,B59 COFFEE,Trà Sữa Kem Cheese,45000,http://royaltea.com.vn/wp-content/uploads/2017/05/13-600x450.jpg
+6835189764919746072,B59 COFFEE,Trà Sữa Trân Châu Cake Cream,53000,http://royaltea.com.vn/wp-content/uploads/2017/05/30-600x450.jpg
+6835189764919746072,B59 COFFEE,Trà Sữa Double Oreo,43000,http://royaltea.com.vn/wp-content/uploads/2017/05/41-600x450.jpg
+6835189764919746072,B59 COFFEE,Trà Đen Chanh Leo Nước Ổi,43000,http://royaltea.com.vn/wp-content/uploads/2017/05/8-600x450.jpg
+6835189764919746072,B59 COFFEE,Trà Xanh Chanh Leo Kim Quất Mật Ong,43000,http://royaltea.com.vn/wp-content/uploads/2017/05/Post-2-600x600.gif
+6835189764919746072,B59 COFFEE,Trà Xanh Kiwi Newzealand,53000,http://royaltea.com.vn/wp-content/uploads/2018/07/kiwi1.jpg
+4761131599689251118,BA LÁ TRÀ,Dâu tằm kem phô mai,48000,http://product.hstatic.net/1000360860/product/dautamkpm_9ed711a06bbe445caaa539c10c8521a8_master.jpg
+4761131599689251118,BA LÁ TRÀ,SỮA TƯƠI CHÂN TRÂU ĐƯỜNG HỔ,48000,http://product.hstatic.net/1000360860/product/duongho_39b347d233284894acb95ae7f99a0af3_master.jpg
+4761131599689251118,BA LÁ TRÀ,Cacao SOCOLA,45000,http://product.hstatic.net/1000360860/product/socola_911914e9f6674e39ab583a3024e0cd8c_master.jpg
+4761131599689251118,BA LÁ TRÀ,HỒNG TRÀ KEM PHOMAI,45000,http://product.hstatic.net/1000360860/product/hongtrakpm_37b2bf93523342a08b2184bb71a7fc78_master.jpg
+4761131599689251118,BA LÁ TRÀ,TRÀ NHẬT ĐẬU ĐỎ,49000,http://product.hstatic.net/1000360860/product/tsnhat_4c62a0a891b94700bedeeeeb5f6b8ab6_master.png
+4761131599689251118,BA LÁ TRÀ,TRÀ SỮA PANDA,46000,http://product.hstatic.net/1000360860/product/panda_6dbae72a6f8e40deb8af33ecad39e515_master.jpg
+4761131599689251118,BA LÁ TRÀ,TRÀ SỮA BẠC HÀ,40000,http://product.hstatic.net/1000360860/product/bacha_0977b3c4fef04f8d8e909ce579fb1c12_master.jpg
+4761131599689251118,BA LÁ TRÀ,Yakult Chanh Leo,42000,http://product.hstatic.net/1000360860/product/yakult-cday_ff8300d49a714625aa63d1125d50ab0d_master.png
+4761131599689251118,BA LÁ TRÀ,Yakult Trà Xanh,42000,http://product.hstatic.net/1000360860/product/yakult-tx_5e6fbdf13dab48f2b5c34fa9fcf6b034_master.png
+4761131599689251118,BA LÁ TRÀ,Yakult Xoài,42000,http://product.hstatic.net/1000360860/product/yakult-xoai_1277bdb10d6e4c0db0c89645147a3ade_master.png
+5453033308428757696,BIDI COFFEE,Hồng Trà Royal Kem Cheese,47000,http://royaltea.com.vn/wp-content/uploads/2017/05/20-600x450.jpg
+5453033308428757696,BIDI COFFEE,Trà Earl Grey Kem Cheese,47000,http://royaltea.com.vn/wp-content/uploads/2017/05/18-600x450.jpg
+5453033308428757696,BIDI COFFEE,Trà Ô Long Royal Kem Cheese,53000,http://royaltea.com.vn/wp-content/uploads/2017/04/jj-600x450.jpg
+5453033308428757696,BIDI COFFEE,Trà Sữa Khoai Môn Tươi,48000,http://royaltea.com.vn/wp-content/uploads/2017/12/ts-khoai-m%C3%B4n-1-600x600.jpg
+5453033308428757696,BIDI COFFEE,Trà Sữa Kem Cheese,45000,http://royaltea.com.vn/wp-content/uploads/2017/05/13-600x450.jpg
+5453033308428757696,BIDI COFFEE,Trà Sữa Trân Châu Cake Cream,53000,http://royaltea.com.vn/wp-content/uploads/2017/05/30-600x450.jpg
+5453033308428757696,BIDI COFFEE,Trà Sữa Double Oreo,43000,http://royaltea.com.vn/wp-content/uploads/2017/05/41-600x450.jpg
+5453033308428757696,BIDI COFFEE,Trà Đen Chanh Leo Nước Ổi,43000,http://royaltea.com.vn/wp-content/uploads/2017/05/8-600x450.jpg
+5453033308428757696,BIDI COFFEE,Trà Xanh Chanh Leo Kim Quất Mật Ong,43000,http://royaltea.com.vn/wp-content/uploads/2017/05/Post-2-600x600.gif
+5453033308428757696,BIDI COFFEE,Trà Xanh Kiwi Newzealand,53000,http://royaltea.com.vn/wp-content/uploads/2018/07/kiwi1.jpg
+5915606340191407689,BLUE INFINITY,Dâu tằm kem phô mai,48000,http://product.hstatic.net/1000360860/product/dautamkpm_9ed711a06bbe445caaa539c10c8521a8_master.jpg
+5915606340191407689,BLUE INFINITY,SỮA TƯƠI CHÂN TRÂU ĐƯỜNG HỔ,48000,http://product.hstatic.net/1000360860/product/duongho_39b347d233284894acb95ae7f99a0af3_master.jpg
+5915606340191407689,BLUE INFINITY,Cacao SOCOLA,45000,http://product.hstatic.net/1000360860/product/socola_911914e9f6674e39ab583a3024e0cd8c_master.jpg
+5915606340191407689,BLUE INFINITY,HỒNG TRÀ KEM PHOMAI,45000,http://product.hstatic.net/1000360860/product/hongtrakpm_37b2bf93523342a08b2184bb71a7fc78_master.jpg
+5915606340191407689,BLUE INFINITY,TRÀ NHẬT ĐẬU ĐỎ,49000,http://product.hstatic.net/1000360860/product/tsnhat_4c62a0a891b94700bedeeeeb5f6b8ab6_master.png
+5915606340191407689,BLUE INFINITY,TRÀ SỮA PANDA,46000,http://product.hstatic.net/1000360860/product/panda_6dbae72a6f8e40deb8af33ecad39e515_master.jpg
+5915606340191407689,BLUE INFINITY,TRÀ SỮA BẠC HÀ,40000,http://product.hstatic.net/1000360860/product/bacha_0977b3c4fef04f8d8e909ce579fb1c12_master.jpg
+5915606340191407689,BLUE INFINITY,Yakult Chanh Leo,42000,http://product.hstatic.net/1000360860/product/yakult-cday_ff8300d49a714625aa63d1125d50ab0d_master.png
+5915606340191407689,BLUE INFINITY,Yakult Trà Xanh,42000,http://product.hstatic.net/1000360860/product/yakult-tx_5e6fbdf13dab48f2b5c34fa9fcf6b034_master.png
+5915606340191407689,BLUE INFINITY,Yakult Xoài,42000,http://product.hstatic.net/1000360860/product/yakult-xoai_1277bdb10d6e4c0db0c89645147a3ade_master.png
+5654538597012118714,Bobapop,Strawberry Earl Grey Latte,60000,https://gongcha.com.vn/wp-content/uploads/2018/08/Strawberry-Earl-grey-latte.png
+5654538597012118714,Bobapop,Caramel Coffee Smoothie,58000,https://gongcha.com.vn/wp-content/uploads/2019/07/Ca-phe-da-xay-popcorn.png
+5654538597012118714,Bobapop,Trà Phổ Nhĩ Mật Ong Latte,59000,https://gongcha.com.vn/wp-content/uploads/2019/10/LATTE-TRA-BO-LUY-1400x1400.png
+5654538597012118714,Bobapop,Caramel Oolong Smoothie,58000,https://gongcha.com.vn/wp-content/uploads/2019/07/Oolong-da-xay-popcorn.png
+5654538597012118714,Bobapop,Trà Sữa Đông Phương Mỹ Nhân Trân Châu Trắng,66000,https://gongcha.com.vn/wp-content/uploads/2019/04/TS-Dong-Phuong-My-Nhan-tc-1.png
+5654538597012118714,Bobapop,Trà Bích Loa Xuân,53000,https://gongcha.com.vn/wp-content/uploads/2019/04/Bich-Loa-Xuan.png
+5654538597012118714,Bobapop,Matcha Strawberry Cream,58000,https://gongcha.com.vn/wp-content/uploads/2019/03/Matcha-Milk-Tea-with-Strawberry-Milkfoam.png
+5654538597012118714,Bobapop,Caramel Coffee Latte,59000,https://gongcha.com.vn/wp-content/uploads/2019/07/Ca-phe-popcorn-latte.png
+5654538597012118714,Bobapop,Mango Matcha Latte,57000,https://gongcha.com.vn/wp-content/uploads/2018/06/Mango-Matcha-Latte.png
+5654538597012118714,Bobapop,Trà Xanh Gong Cha,51000,https://gongcha.com.vn/wp-content/uploads/2018/02/Tr%C3%A0-Xanh-Milkfoam-2.png
+7583220493983739980,CAFE 63,Dâu tằm kem phô mai,48000,http://product.hstatic.net/1000360860/product/dautamkpm_9ed711a06bbe445caaa539c10c8521a8_master.jpg
+7583220493983739980,CAFE 63,SỮA TƯƠI CHÂN TRÂU ĐƯỜNG HỔ,48000,http://product.hstatic.net/1000360860/product/duongho_39b347d233284894acb95ae7f99a0af3_master.jpg
+7583220493983739980,CAFE 63,Cacao SOCOLA,45000,http://product.hstatic.net/1000360860/product/socola_911914e9f6674e39ab583a3024e0cd8c_master.jpg
+7583220493983739980,CAFE 63,HỒNG TRÀ KEM PHOMAI,45000,http://product.hstatic.net/1000360860/product/hongtrakpm_37b2bf93523342a08b2184bb71a7fc78_master.jpg
+7583220493983739980,CAFE 63,TRÀ NHẬT ĐẬU ĐỎ,49000,http://product.hstatic.net/1000360860/product/tsnhat_4c62a0a891b94700bedeeeeb5f6b8ab6_master.png
+7583220493983739980,CAFE 63,TRÀ SỮA PANDA,46000,http://product.hstatic.net/1000360860/product/panda_6dbae72a6f8e40deb8af33ecad39e515_master.jpg
+7583220493983739980,CAFE 63,TRÀ SỮA BẠC HÀ,40000,http://product.hstatic.net/1000360860/product/bacha_0977b3c4fef04f8d8e909ce579fb1c12_master.jpg
+7583220493983739980,CAFE 63,Yakult Chanh Leo,42000,http://product.hstatic.net/1000360860/product/yakult-cday_ff8300d49a714625aa63d1125d50ab0d_master.png
+7583220493983739980,CAFE 63,Yakult Trà Xanh,42000,http://product.hstatic.net/1000360860/product/yakult-tx_5e6fbdf13dab48f2b5c34fa9fcf6b034_master.png
+7583220493983739980,CAFE 63,Yakult Xoài,42000,http://product.hstatic.net/1000360860/product/yakult-xoai_1277bdb10d6e4c0db0c89645147a3ade_master.png
+1091190812284273157,CAFE BABA,Cherry Macchiato,55000,https://product.hstatic.net/1000075078/product/cherry_mac_6a3403fdb832464da88de8c6e6ddf662_master.jpg
+1091190812284273157,CAFE BABA,Lemon Macchiato,55000,https://product.hstatic.net/1000075078/product/xoai_mac_c4534cc7607f4d58addf470a162e8359_master.jpg
+1091190812284273157,CAFE BABA,Cold Brew Milk Macchiato,50000,https://product.hstatic.net/1000075078/product/coldbrewmacchiato_af7dc44ed71b4856bfe48a756ed939e6_master.jpg
+1091190812284273157,CAFE BABA,Phuc Bon Tu Cam Da Xay,59000,https://product.hstatic.net/1000075078/product/daxay_raspberry_01685c63649740678352a348f8b281a1_master.png
+1091190812284273157,CAFE BABA,Cold Brew Phuc Bon Tu,50000,https://product.hstatic.net/1000075078/product/coldbrew_raspberry_ac577fc483484f0cb4e35efe6bf14426_master.png
+1091190812284273157,CAFE BABA,Caramel Macchiato,55000,https://product.hstatic.net/1000075078/product/caramel_macchiato_b6f694f469794e12b04a91845f5fce2d_master.jpg
+1091190812284273157,CAFE BABA,Tra Dao Cam Sa,45000,https://product.hstatic.net/1000075078/product/tra_dao_cam_sa_on_bg_master.jpg
+1091190812284273157,CAFE BABA,Ca Phe Den,29000,https://product.hstatic.net/1000075078/product/vnese_coffee_master.jpg
+1091190812284273157,CAFE BABA,Cappucino,45000,https://product.hstatic.net/1000075078/product/cappuccino_master.jpg
+1091190812284273157,CAFE BABA,Latte Matcha,59000,https://product.hstatic.net/1000075078/product/matcha_latte_master.jpg
+6246455540529687045,CAFE BÙI,Strawberry Earl Grey Latte,60000,https://gongcha.com.vn/wp-content/uploads/2018/08/Strawberry-Earl-grey-latte.png
+6246455540529687045,CAFE BÙI,Caramel Coffee Smoothie,58000,https://gongcha.com.vn/wp-content/uploads/2019/07/Ca-phe-da-xay-popcorn.png
+6246455540529687045,CAFE BÙI,Trà Phổ Nhĩ Mật Ong Latte,59000,https://gongcha.com.vn/wp-content/uploads/2019/10/LATTE-TRA-BO-LUY-1400x1400.png
+6246455540529687045,CAFE BÙI,Caramel Oolong Smoothie,58000,https://gongcha.com.vn/wp-content/uploads/2019/07/Oolong-da-xay-popcorn.png
+6246455540529687045,CAFE BÙI,Trà Sữa Đông Phương Mỹ Nhân Trân Châu Trắng,66000,https://gongcha.com.vn/wp-content/uploads/2019/04/TS-Dong-Phuong-My-Nhan-tc-1.png
+6246455540529687045,CAFE BÙI,Trà Bích Loa Xuân,53000,https://gongcha.com.vn/wp-content/uploads/2019/04/Bich-Loa-Xuan.png
+6246455540529687045,CAFE BÙI,Matcha Strawberry Cream,58000,https://gongcha.com.vn/wp-content/uploads/2019/03/Matcha-Milk-Tea-with-Strawberry-Milkfoam.png
+6246455540529687045,CAFE BÙI,Caramel Coffee Latte,59000,https://gongcha.com.vn/wp-content/uploads/2019/07/Ca-phe-popcorn-latte.png
+6246455540529687045,CAFE BÙI,Mango Matcha Latte,57000,https://gongcha.com.vn/wp-content/uploads/2018/06/Mango-Matcha-Latte.png
+6246455540529687045,CAFE BÙI,Trà Xanh Gong Cha,51000,https://gongcha.com.vn/wp-content/uploads/2018/02/Tr%C3%A0-Xanh-Milkfoam-2.png
+8679358109832507197,CAFE HÀO NAM,Cherry Macchiato,55000,https://product.hstatic.net/1000075078/product/cherry_mac_6a3403fdb832464da88de8c6e6ddf662_master.jpg
+8679358109832507197,CAFE HÀO NAM,Lemon Macchiato,55000,https://product.hstatic.net/1000075078/product/xoai_mac_c4534cc7607f4d58addf470a162e8359_master.jpg
+8679358109832507197,CAFE HÀO NAM,Cold Brew Milk Macchiato,50000,https://product.hstatic.net/1000075078/product/coldbrewmacchiato_af7dc44ed71b4856bfe48a756ed939e6_master.jpg
+8679358109832507197,CAFE HÀO NAM,Phuc Bon Tu Cam Da Xay,59000,https://product.hstatic.net/1000075078/product/daxay_raspberry_01685c63649740678352a348f8b281a1_master.png
+8679358109832507197,CAFE HÀO NAM,Cold Brew Phuc Bon Tu,50000,https://product.hstatic.net/1000075078/product/coldbrew_raspberry_ac577fc483484f0cb4e35efe6bf14426_master.png
+8679358109832507197,CAFE HÀO NAM,Caramel Macchiato,55000,https://product.hstatic.net/1000075078/product/caramel_macchiato_b6f694f469794e12b04a91845f5fce2d_master.jpg
+8679358109832507197,CAFE HÀO NAM,Tra Dao Cam Sa,45000,https://product.hstatic.net/1000075078/product/tra_dao_cam_sa_on_bg_master.jpg
+8679358109832507197,CAFE HÀO NAM,Ca Phe Den,29000,https://product.hstatic.net/1000075078/product/vnese_coffee_master.jpg
+8679358109832507197,CAFE HÀO NAM,Cappucino,45000,https://product.hstatic.net/1000075078/product/cappuccino_master.jpg
+8679358109832507197,CAFE HÀO NAM,Latte Matcha,59000,https://product.hstatic.net/1000075078/product/matcha_latte_master.jpg
+1136811934461115501,CAFE LEO,Cappuccino MilkFoam Jelly Ice,50000,https://www.effoc.vn/uploads/images/product/94-0-Cappuccino%20Milkfoam%20Jelly.jpg
+1136811934461115501,CAFE LEO,Frappe Ice Blend,45000,https://www.effoc.vn/uploads/images/product/27-0-Frappe.jpg
+1136811934461115501,CAFE LEO,Mocha Cooler Ice Blend,45000,https://www.effoc.vn/uploads/images/product/30-0-Mocha%20Cooler.jpg
+1136811934461115501,CAFE LEO,Salted Caramel Macchiato,45000,https://www.effoc.vn/uploads/images/product/107-0-Macchiato_S.jpg
+1136811934461115501,CAFE LEO,Choco Caramel Cooler Ice Blended,50000,https://www.effoc.vn/uploads/images/product/36-0-choco%20caramel%20cooler.jpg
+1136811934461115501,CAFE LEO,Choco Hazelnut Ice,45000,http://effoc.vn/uploads/images/product/10-0-Choco.jpg
+1136811934461115501,CAFE LEO,Choco Matchafoam,50000,https://www.effoc.vn/uploads/images/product/109-0-Choco%20Matchafoam_S.jpg
+1136811934461115501,CAFE LEO,Choco Strawberry Cooler Ice Blended,50000,https://www.effoc.vn/uploads/images/product/39-0-choco%20strawberry%20cooler.jpg
+1136811934461115501,CAFE LEO,Blacktea Cheesefoam Pearl,45000,https://www.effoc.vn/uploads/images/product/112-0-blacktea%20cheesefoam%20pearl-.jpg
+1136811934461115501,CAFE LEO,Tea Fruit Cheesefoam Pearl,50000,https://www.effoc.vn/uploads/images/product/113-0-teafruit%20cheesefoam%20pearl-.jpg
+1296318385548951681,CAFE LINH,Cappuccino MilkFoam Jelly Ice,50000,https://www.effoc.vn/uploads/images/product/94-0-Cappuccino%20Milkfoam%20Jelly.jpg
+1296318385548951681,CAFE LINH,Frappe Ice Blend,45000,https://www.effoc.vn/uploads/images/product/27-0-Frappe.jpg
+1296318385548951681,CAFE LINH,Mocha Cooler Ice Blend,45000,https://www.effoc.vn/uploads/images/product/30-0-Mocha%20Cooler.jpg
+1296318385548951681,CAFE LINH,Salted Caramel Macchiato,45000,https://www.effoc.vn/uploads/images/product/107-0-Macchiato_S.jpg
+1296318385548951681,CAFE LINH,Choco Caramel Cooler Ice Blended,50000,https://www.effoc.vn/uploads/images/product/36-0-choco%20caramel%20cooler.jpg
+1296318385548951681,CAFE LINH,Choco Hazelnut Ice,45000,http://effoc.vn/uploads/images/product/10-0-Choco.jpg
+1296318385548951681,CAFE LINH,Choco Matchafoam,50000,https://www.effoc.vn/uploads/images/product/109-0-Choco%20Matchafoam_S.jpg
+1296318385548951681,CAFE LINH,Choco Strawberry Cooler Ice Blended,50000,https://www.effoc.vn/uploads/images/product/39-0-choco%20strawberry%20cooler.jpg
+1296318385548951681,CAFE LINH,Blacktea Cheesefoam Pearl,45000,https://www.effoc.vn/uploads/images/product/112-0-blacktea%20cheesefoam%20pearl-.jpg
+1296318385548951681,CAFE LINH,Tea Fruit Cheesefoam Pearl,50000,https://www.effoc.vn/uploads/images/product/113-0-teafruit%20cheesefoam%20pearl-.jpg
+3391042544567426272,CAFE MILANO,Strawberry Earl Grey Latte,60000,https://gongcha.com.vn/wp-content/uploads/2018/08/Strawberry-Earl-grey-latte.png
+3391042544567426272,CAFE MILANO,Caramel Coffee Smoothie,58000,https://gongcha.com.vn/wp-content/uploads/2019/07/Ca-phe-da-xay-popcorn.png
+3391042544567426272,CAFE MILANO,Trà Phổ Nhĩ Mật Ong Latte,59000,https://gongcha.com.vn/wp-content/uploads/2019/10/LATTE-TRA-BO-LUY-1400x1400.png
+3391042544567426272,CAFE MILANO,Caramel Oolong Smoothie,58000,https://gongcha.com.vn/wp-content/uploads/2019/07/Oolong-da-xay-popcorn.png
+3391042544567426272,CAFE MILANO,Trà Sữa Đông Phương Mỹ Nhân Trân Châu Trắng,66000,https://gongcha.com.vn/wp-content/uploads/2019/04/TS-Dong-Phuong-My-Nhan-tc-1.png
+3391042544567426272,CAFE MILANO,Trà Bích Loa Xuân,53000,https://gongcha.com.vn/wp-content/uploads/2019/04/Bich-Loa-Xuan.png
+3391042544567426272,CAFE MILANO,Matcha Strawberry Cream,58000,https://gongcha.com.vn/wp-content/uploads/2019/03/Matcha-Milk-Tea-with-Strawberry-Milkfoam.png
+3391042544567426272,CAFE MILANO,Caramel Coffee Latte,59000,https://gongcha.com.vn/wp-content/uploads/2019/07/Ca-phe-popcorn-latte.png
+3391042544567426272,CAFE MILANO,Mango Matcha Latte,57000,https://gongcha.com.vn/wp-content/uploads/2018/06/Mango-Matcha-Latte.png
+3391042544567426272,CAFE MILANO,Trà Xanh Gong Cha,51000,https://gongcha.com.vn/wp-content/uploads/2018/02/Tr%C3%A0-Xanh-Milkfoam-2.png
+5035507415958505338,CAFE Muối,Cappuccino MilkFoam Jelly Ice,50000,https://www.effoc.vn/uploads/images/product/94-0-Cappuccino%20Milkfoam%20Jelly.jpg
+5035507415958505338,CAFE Muối,Frappe Ice Blend,45000,https://www.effoc.vn/uploads/images/product/27-0-Frappe.jpg
+5035507415958505338,CAFE Muối,Mocha Cooler Ice Blend,45000,https://www.effoc.vn/uploads/images/product/30-0-Mocha%20Cooler.jpg
+5035507415958505338,CAFE Muối,Salted Caramel Macchiato,45000,https://www.effoc.vn/uploads/images/product/107-0-Macchiato_S.jpg
+5035507415958505338,CAFE Muối,Choco Caramel Cooler Ice Blended,50000,https://www.effoc.vn/uploads/images/product/36-0-choco%20caramel%20cooler.jpg
+5035507415958505338,CAFE Muối,Choco Hazelnut Ice,45000,http://effoc.vn/uploads/images/product/10-0-Choco.jpg
+5035507415958505338,CAFE Muối,Choco Matchafoam,50000,https://www.effoc.vn/uploads/images/product/109-0-Choco%20Matchafoam_S.jpg
+5035507415958505338,CAFE Muối,Choco Strawberry Cooler Ice Blended,50000,https://www.effoc.vn/uploads/images/product/39-0-choco%20strawberry%20cooler.jpg
+5035507415958505338,CAFE Muối,Blacktea Cheesefoam Pearl,45000,https://www.effoc.vn/uploads/images/product/112-0-blacktea%20cheesefoam%20pearl-.jpg
+5035507415958505338,CAFE Muối,Tea Fruit Cheesefoam Pearl,50000,https://www.effoc.vn/uploads/images/product/113-0-teafruit%20cheesefoam%20pearl-.jpg
+4503904905105350123,CAFÉ LÊ GIA,Strawberry Earl Grey Latte,60000,https://gongcha.com.vn/wp-content/uploads/2018/08/Strawberry-Earl-grey-latte.png
+4503904905105350123,CAFÉ LÊ GIA,Caramel Coffee Smoothie,58000,https://gongcha.com.vn/wp-content/uploads/2019/07/Ca-phe-da-xay-popcorn.png
+4503904905105350123,CAFÉ LÊ GIA,Trà Phổ Nhĩ Mật Ong Latte,59000,https://gongcha.com.vn/wp-content/uploads/2019/10/LATTE-TRA-BO-LUY-1400x1400.png
+4503904905105350123,CAFÉ LÊ GIA,Caramel Oolong Smoothie,58000,https://gongcha.com.vn/wp-content/uploads/2019/07/Oolong-da-xay-popcorn.png
+4503904905105350123,CAFÉ LÊ GIA,Trà Sữa Đông Phương Mỹ Nhân Trân Châu Trắng,66000,https://gongcha.com.vn/wp-content/uploads/2019/04/TS-Dong-Phuong-My-Nhan-tc-1.png
+4503904905105350123,CAFÉ LÊ GIA,Trà Bích Loa Xuân,53000,https://gongcha.com.vn/wp-content/uploads/2019/04/Bich-Loa-Xuan.png
+4503904905105350123,CAFÉ LÊ GIA,Matcha Strawberry Cream,58000,https://gongcha.com.vn/wp-content/uploads/2019/03/Matcha-Milk-Tea-with-Strawberry-Milkfoam.png
+4503904905105350123,CAFÉ LÊ GIA,Caramel Coffee Latte,59000,https://gongcha.com.vn/wp-content/uploads/2019/07/Ca-phe-popcorn-latte.png
+4503904905105350123,CAFÉ LÊ GIA,Mango Matcha Latte,57000,https://gongcha.com.vn/wp-content/uploads/2018/06/Mango-Matcha-Latte.png
+4503904905105350123,CAFÉ LÊ GIA,Trà Xanh Gong Cha,51000,https://gongcha.com.vn/wp-content/uploads/2018/02/Tr%C3%A0-Xanh-Milkfoam-2.png
+2924970720588960871,CHEW TEA,Cappuccino MilkFoam Jelly Ice,50000,https://www.effoc.vn/uploads/images/product/94-0-Cappuccino%20Milkfoam%20Jelly.jpg
+2924970720588960871,CHEW TEA,Frappe Ice Blend,45000,https://www.effoc.vn/uploads/images/product/27-0-Frappe.jpg
+2924970720588960871,CHEW TEA,Mocha Cooler Ice Blend,45000,https://www.effoc.vn/uploads/images/product/30-0-Mocha%20Cooler.jpg
+2924970720588960871,CHEW TEA,Salted Caramel Macchiato,45000,https://www.effoc.vn/uploads/images/product/107-0-Macchiato_S.jpg
+2924970720588960871,CHEW TEA,Choco Caramel Cooler Ice Blended,50000,https://www.effoc.vn/uploads/images/product/36-0-choco%20caramel%20cooler.jpg
+2924970720588960871,CHEW TEA,Choco Hazelnut Ice,45000,http://effoc.vn/uploads/images/product/10-0-Choco.jpg
+2924970720588960871,CHEW TEA,Choco Matchafoam,50000,https://www.effoc.vn/uploads/images/product/109-0-Choco%20Matchafoam_S.jpg
+2924970720588960871,CHEW TEA,Choco Strawberry Cooler Ice Blended,50000,https://www.effoc.vn/uploads/images/product/39-0-choco%20strawberry%20cooler.jpg
+2924970720588960871,CHEW TEA,Blacktea Cheesefoam Pearl,45000,https://www.effoc.vn/uploads/images/product/112-0-blacktea%20cheesefoam%20pearl-.jpg
+2924970720588960871,CHEW TEA,Tea Fruit Cheesefoam Pearl,50000,https://www.effoc.vn/uploads/images/product/113-0-teafruit%20cheesefoam%20pearl-.jpg
+5903031011860056729,Cheese Coffee,Matcha Trân Châu Đường Đen,65000,https://images.foody.vn/res/g73/725994/s750x750/2018615104534-matcha-sua-tran-chau-duong-den.jpg
+5903031011860056729,Cheese Coffee,Sữa tươi trân châu đường đen,62000,https://images.foody.vn/res/g73/725994/s750x750/2018615104713-tra-sua-tran-chau-duong-den.jpg
+5903031011860056729,Cheese Coffee,Thanh Trà Nho,55000,https://images.foody.vn/res/g73/725994/s750x750/20181119181814-thanh-tra-nho.jpg
+5903031011860056729,Cheese Coffee,Sữa Xoài Đá Xay,60000,https://images.foody.vn/res/g73/725994/s750x750/2018111918178-sua-xoai.jpg
+5903031011860056729,Cheese Coffee,Latte Trân Châu Đường Đen,75000,https://images.foody.vn/res/g73/725994/s750x750/b5f99a6d-7f3a-4170-3a21-027ad9b0219b.jpg
+5903031011860056729,Cheese Coffee,Sữa tươi Kem Trứng Trân Châu Đường Đen,65000,https://images.foody.vn/res/g73/725994/s750x750/b5f99a6d-7f3a-4170-3a21-027ad9b0219b.jpg
+5903031011860056729,Cheese Coffee,Cacao Trân Châu Đường Đen,65000,https://images.foody.vn/res/g73/725994/s750x750/2018615105443-cacao.jpg
+5903031011860056729,Cheese Coffee,Lục trà chanh dây thạch dừa,59000,https://images.foody.vn/res/g73/725994/s750x750/2018615103856-luc-tra-chanh-day-thach-dua-2-.jpg
+5903031011860056729,Cheese Coffee,Nước Táo Nha Đam,55000,https://images.foody.vn/res/g73/725994/s750x750/2018615103941-nuoc-tao-nha-dam-2-.jpg
+5903031011860056729,Cheese Coffee,Sữa Chanh Trân Châu,59000,https://images.foody.vn/res/g73/725994/s750x750/2018615103552-sua-chanh-2-.jpg
+9039492385198365820,EARL TEA,Matcha Trân Châu Đường Đen,65000,https://images.foody.vn/res/g73/725994/s750x750/2018615104534-matcha-sua-tran-chau-duong-den.jpg
+9039492385198365820,EARL TEA,Sữa tươi trân châu đường đen,62000,https://images.foody.vn/res/g73/725994/s750x750/2018615104713-tra-sua-tran-chau-duong-den.jpg
+9039492385198365820,EARL TEA,Thanh Trà Nho,55000,https://images.foody.vn/res/g73/725994/s750x750/20181119181814-thanh-tra-nho.jpg
+9039492385198365820,EARL TEA,Sữa Xoài Đá Xay,60000,https://images.foody.vn/res/g73/725994/s750x750/2018111918178-sua-xoai.jpg
+9039492385198365820,EARL TEA,Latte Trân Châu Đường Đen,75000,https://images.foody.vn/res/g73/725994/s750x750/b5f99a6d-7f3a-4170-3a21-027ad9b0219b.jpg
+9039492385198365820,EARL TEA,Sữa tươi Kem Trứng Trân Châu Đường Đen,65000,https://images.foody.vn/res/g73/725994/s750x750/b5f99a6d-7f3a-4170-3a21-027ad9b0219b.jpg
+9039492385198365820,EARL TEA,Cacao Trân Châu Đường Đen,65000,https://images.foody.vn/res/g73/725994/s750x750/2018615105443-cacao.jpg
+9039492385198365820,EARL TEA,Lục trà chanh dây thạch dừa,59000,https://images.foody.vn/res/g73/725994/s750x750/2018615103856-luc-tra-chanh-day-thach-dua-2-.jpg
+9039492385198365820,EARL TEA,Nước Táo Nha Đam,55000,https://images.foody.vn/res/g73/725994/s750x750/2018615103941-nuoc-tao-nha-dam-2-.jpg
+9039492385198365820,EARL TEA,Sữa Chanh Trân Châu,59000,https://images.foody.vn/res/g73/725994/s750x750/2018615103552-sua-chanh-2-.jpg
+4612140123734925274,Effoc Coffee,Cappuccino MilkFoam Jelly Ice,50000,https://www.effoc.vn/uploads/images/product/94-0-Cappuccino%20Milkfoam%20Jelly.jpg
+4612140123734925274,Effoc Coffee,Frappe Ice Blend,45000,https://www.effoc.vn/uploads/images/product/27-0-Frappe.jpg
+4612140123734925274,Effoc Coffee,Mocha Cooler Ice Blend,45000,https://www.effoc.vn/uploads/images/product/30-0-Mocha%20Cooler.jpg
+4612140123734925274,Effoc Coffee,Salted Caramel Macchiato,45000,https://www.effoc.vn/uploads/images/product/107-0-Macchiato_S.jpg
+4612140123734925274,Effoc Coffee,Choco Caramel Cooler Ice Blended,50000,https://www.effoc.vn/uploads/images/product/36-0-choco%20caramel%20cooler.jpg
+4612140123734925274,Effoc Coffee,Choco Hazelnut Ice,45000,http://effoc.vn/uploads/images/product/10-0-Choco.jpg
+4612140123734925274,Effoc Coffee,Choco Matchafoam,50000,https://www.effoc.vn/uploads/images/product/109-0-Choco%20Matchafoam_S.jpg
+4612140123734925274,Effoc Coffee,Choco Strawberry Cooler Ice Blended,50000,https://www.effoc.vn/uploads/images/product/39-0-choco%20strawberry%20cooler.jpg
+4612140123734925274,Effoc Coffee,Blacktea Cheesefoam Pearl,45000,https://www.effoc.vn/uploads/images/product/112-0-blacktea%20cheesefoam%20pearl-.jpg
+4612140123734925274,Effoc Coffee,Tea Fruit Cheesefoam Pearl,50000,https://www.effoc.vn/uploads/images/product/113-0-teafruit%20cheesefoam%20pearl-.jpg
+4501300687807117702,Feeling Tea,Matcha Trân Châu Đường Đen,65000,https://images.foody.vn/res/g73/725994/s750x750/2018615104534-matcha-sua-tran-chau-duong-den.jpg
+4501300687807117702,Feeling Tea,Sữa tươi trân châu đường đen,62000,https://images.foody.vn/res/g73/725994/s750x750/2018615104713-tra-sua-tran-chau-duong-den.jpg
+4501300687807117702,Feeling Tea,Thanh Trà Nho,55000,https://images.foody.vn/res/g73/725994/s750x750/20181119181814-thanh-tra-nho.jpg
+4501300687807117702,Feeling Tea,Sữa Xoài Đá Xay,60000,https://images.foody.vn/res/g73/725994/s750x750/2018111918178-sua-xoai.jpg
+4501300687807117702,Feeling Tea,Latte Trân Châu Đường Đen,75000,https://images.foody.vn/res/g73/725994/s750x750/b5f99a6d-7f3a-4170-3a21-027ad9b0219b.jpg
+4501300687807117702,Feeling Tea,Sữa tươi Kem Trứng Trân Châu Đường Đen,65000,https://images.foody.vn/res/g73/725994/s750x750/b5f99a6d-7f3a-4170-3a21-027ad9b0219b.jpg
+4501300687807117702,Feeling Tea,Cacao Trân Châu Đường Đen,65000,https://images.foody.vn/res/g73/725994/s750x750/2018615105443-cacao.jpg
+4501300687807117702,Feeling Tea,Lục trà chanh dây thạch dừa,59000,https://images.foody.vn/res/g73/725994/s750x750/2018615103856-luc-tra-chanh-day-thach-dua-2-.jpg
+4501300687807117702,Feeling Tea,Nước Táo Nha Đam,55000,https://images.foody.vn/res/g73/725994/s750x750/2018615103941-nuoc-tao-nha-dam-2-.jpg
+4501300687807117702,Feeling Tea,Sữa Chanh Trân Châu,59000,https://images.foody.vn/res/g73/725994/s750x750/2018615103552-sua-chanh-2-.jpg
+3315835320223835013,Gongcha,Strawberry Earl Grey Latte,60000,https://gongcha.com.vn/wp-content/uploads/2018/08/Strawberry-Earl-grey-latte.png
+3315835320223835013,Gongcha,Caramel Coffee Smoothie,58000,https://gongcha.com.vn/wp-content/uploads/2019/07/Ca-phe-da-xay-popcorn.png
+3315835320223835013,Gongcha,Trà Phổ Nhĩ Mật Ong Latte,59000,https://gongcha.com.vn/wp-content/uploads/2019/10/LATTE-TRA-BO-LUY-1400x1400.png
+3315835320223835013,Gongcha,Caramel Oolong Smoothie,58000,https://gongcha.com.vn/wp-content/uploads/2019/07/Oolong-da-xay-popcorn.png
+3315835320223835013,Gongcha,Trà Sữa Đông Phương Mỹ Nhân Trân Châu Trắng,66000,https://gongcha.com.vn/wp-content/uploads/2019/04/TS-Dong-Phuong-My-Nhan-tc-1.png
+3315835320223835013,Gongcha,Trà Bích Loa Xuân,53000,https://gongcha.com.vn/wp-content/uploads/2019/04/Bich-Loa-Xuan.png
+3315835320223835013,Gongcha,Matcha Strawberry Cream,58000,https://gongcha.com.vn/wp-content/uploads/2019/03/Matcha-Milk-Tea-with-Strawberry-Milkfoam.png
+3315835320223835013,Gongcha,Caramel Coffee Latte,59000,https://gongcha.com.vn/wp-content/uploads/2019/07/Ca-phe-popcorn-latte.png
+3315835320223835013,Gongcha,Mango Matcha Latte,57000,https://gongcha.com.vn/wp-content/uploads/2018/06/Mango-Matcha-Latte.png
+3315835320223835013,Gongcha,Trà Xanh Gong Cha,51000,https://gongcha.com.vn/wp-content/uploads/2018/02/Tr%C3%A0-Xanh-Milkfoam-2.png
+7165089198541247961,HEEKCAA,Trà sữa Cake Cream,45000,https://images.foody.vn/res/g67/664629/s750x750/dd26272b-3680-42f4-b4bd-95bb3e312d74.jpg
+7165089198541247961,HEEKCAA,Trà Vải Hạt Sen,55000,https://images.foody.vn/res/g67/664629/s750x750/2ed1180e-97f1-43d6-bcc5-94bea246d686.jpg
+7165089198541247961,HEEKCAA,Trà Sữa Nướng,35000,https://images.foody.vn/res/g67/664629/s750x750/2349472d-0e94-4e64-9458-88b0d8be27ae.jpg
+7165089198541247961,HEEKCAA,Trà Đào Cam Sả,45000,https://images.foody.vn/res/g67/664629/s750x750/d3f33bcb-98ad-4c7b-895d-dbe1807f5826.jpg
+7165089198541247961,HEEKCAA,Trà Sữa Ruby,50000,https://images.foody.vn/res/g67/664629/s750x750/bf777630-03fa-4a10-acfd-a2a71e442b14.jpg
+7165089198541247961,HEEKCAA,Yaourt Kem Trứng Nướng,69000,https://images.foody.vn/res/g67/664629/s750x750/074b7c98-b241-45f4-3fe9-06e66c5f0e2e.jpg
+7165089198541247961,HEEKCAA,Trà Dâu Nam Mỹ Chanh Vàng,55000,https://images.foody.vn/res/g67/664629/s750x750/cae6ed4a-5854-4737-a9fe-8f5cd9d26166.jpg
+7165089198541247961,HEEKCAA,Trà Xoài Hawaii Chanh Vàng,52000,https://images.foody.vn/res/g67/664629/s750x750/0b299651-3d86-4b12-8217-4364b594cb01.jpg
+7165089198541247961,HEEKCAA,Traà Olong Nho Nam Mỹ,45000,https://images.foody.vn/res/g67/664629/s120x120/1a83d426-273c-4f01-adad-0fc3926724d6.jpg
+7165089198541247961,HEEKCAA,Sữa tươi trân châu đường đen,45000,https://images.foody.vn/res/g67/664629/s120x120/c6b8fd65-0db3-4939-be6a-dd391a9803f6.jpg
+7398373044743834494,HESTIA CAFÉ,Cappuccino MilkFoam Jelly Ice,50000,https://www.effoc.vn/uploads/images/product/94-0-Cappuccino%20Milkfoam%20Jelly.jpg
+7398373044743834494,HESTIA CAFÉ,Frappe Ice Blend,45000,https://www.effoc.vn/uploads/images/product/27-0-Frappe.jpg
+7398373044743834494,HESTIA CAFÉ,Mocha Cooler Ice Blend,45000,https://www.effoc.vn/uploads/images/product/30-0-Mocha%20Cooler.jpg
+7398373044743834494,HESTIA CAFÉ,Salted Caramel Macchiato,45000,https://www.effoc.vn/uploads/images/product/107-0-Macchiato_S.jpg
+7398373044743834494,HESTIA CAFÉ,Choco Caramel Cooler Ice Blended,50000,https://www.effoc.vn/uploads/images/product/36-0-choco%20caramel%20cooler.jpg
+7398373044743834494,HESTIA CAFÉ,Choco Hazelnut Ice,45000,http://effoc.vn/uploads/images/product/10-0-Choco.jpg
+7398373044743834494,HESTIA CAFÉ,Choco Matchafoam,50000,https://www.effoc.vn/uploads/images/product/109-0-Choco%20Matchafoam_S.jpg
+7398373044743834494,HESTIA CAFÉ,Choco Strawberry Cooler Ice Blended,50000,https://www.effoc.vn/uploads/images/product/39-0-choco%20strawberry%20cooler.jpg
+7398373044743834494,HESTIA CAFÉ,Blacktea Cheesefoam Pearl,45000,https://www.effoc.vn/uploads/images/product/112-0-blacktea%20cheesefoam%20pearl-.jpg
+7398373044743834494,HESTIA CAFÉ,Tea Fruit Cheesefoam Pearl,50000,https://www.effoc.vn/uploads/images/product/113-0-teafruit%20cheesefoam%20pearl-.jpg
+2632452905725643033,HƯƠNG NGUYÊN CAFÉ,Trà sữa Cake Cream,45000,https://images.foody.vn/res/g67/664629/s750x750/dd26272b-3680-42f4-b4bd-95bb3e312d74.jpg
+2632452905725643033,HƯƠNG NGUYÊN CAFÉ,Trà Vải Hạt Sen,55000,https://images.foody.vn/res/g67/664629/s750x750/2ed1180e-97f1-43d6-bcc5-94bea246d686.jpg
+2632452905725643033,HƯƠNG NGUYÊN CAFÉ,Trà Sữa Nướng,35000,https://images.foody.vn/res/g67/664629/s750x750/2349472d-0e94-4e64-9458-88b0d8be27ae.jpg
+2632452905725643033,HƯƠNG NGUYÊN CAFÉ,Trà Đào Cam Sả,45000,https://images.foody.vn/res/g67/664629/s750x750/d3f33bcb-98ad-4c7b-895d-dbe1807f5826.jpg
+2632452905725643033,HƯƠNG NGUYÊN CAFÉ,Trà Sữa Ruby,50000,https://images.foody.vn/res/g67/664629/s750x750/bf777630-03fa-4a10-acfd-a2a71e442b14.jpg
+2632452905725643033,HƯƠNG NGUYÊN CAFÉ,Yaourt Kem Trứng Nướng,69000,https://images.foody.vn/res/g67/664629/s750x750/074b7c98-b241-45f4-3fe9-06e66c5f0e2e.jpg
+2632452905725643033,HƯƠNG NGUYÊN CAFÉ,Trà Dâu Nam Mỹ Chanh Vàng,55000,https://images.foody.vn/res/g67/664629/s750x750/cae6ed4a-5854-4737-a9fe-8f5cd9d26166.jpg
+2632452905725643033,HƯƠNG NGUYÊN CAFÉ,Trà Xoài Hawaii Chanh Vàng,52000,https://images.foody.vn/res/g67/664629/s750x750/0b299651-3d86-4b12-8217-4364b594cb01.jpg
+2632452905725643033,HƯƠNG NGUYÊN CAFÉ,Traà Olong Nho Nam Mỹ,45000,https://images.foody.vn/res/g67/664629/s120x120/1a83d426-273c-4f01-adad-0fc3926724d6.jpg
+2632452905725643033,HƯƠNG NGUYÊN CAFÉ,Sữa tươi trân châu đường đen,45000,https://images.foody.vn/res/g67/664629/s120x120/c6b8fd65-0db3-4939-be6a-dd391a9803f6.jpg
+1103557715161564100,IHOUSE CAFÉ,Trà vải mỹ nhân,45000,http://www.tasterschoice.com.vn/storage/20770212_250092775501229_2766729946876535207_n.jpg
+1103557715161564100,IHOUSE CAFÉ,Matcha Đậu Đỏ,50000,http://www.tasterschoice.com.vn/storage/IMG_2609.jpg
+1103557715161564100,IHOUSE CAFÉ,Trà sữa đào đỏ,45000,http://www.tasterschoice.com.vn/storage/25659956_300883167088856_7380228945219067852_n.jpg
+1103557715161564100,IHOUSE CAFÉ,Matcha cake cream,50000,http://tasterschoice.vn/storage/IMG_7052.jpg
+1103557715161564100,IHOUSE CAFÉ,Kem cheese xoài,45000,http://tasterschoice.vn/storage/IMG_7087.jpg
+1103557715161564100,IHOUSE CAFÉ,Trà táo đỏ kem cheese,40000,http://www.tasterschoice.com.vn/storage/25550529_301229490387557_4778200223180466463_n.jpg
+1103557715161564100,IHOUSE CAFÉ,Trà đen kem cheese,40000,http://royaltea.com.vn/wp-content/uploads/2017/05/18-600x450.jpg
+1103557715161564100,IHOUSE CAFÉ,Trà kem sữa sầu riêng,45000,http://www.tasterschoice.com.vn/storage/23561764_283783062132200_3162100881147851816_n.jpg
+1103557715161564100,IHOUSE CAFÉ,Trà sữa Cake Cream,45000,http://www.tasterschoice.com.vn/storage/23659279_285968751913631_2523218889699768935_n.jpg
+1103557715161564100,IHOUSE CAFÉ,Trà xoài nhiệt đới,48000,https://product.hstatic.net/1000075078/product/tra_dao_cam_sa_on_bg_master.jpg
+3615982237552954784,KOI Thé,Trà sữa Cake Cream,45000,https://images.foody.vn/res/g67/664629/s750x750/dd26272b-3680-42f4-b4bd-95bb3e312d74.jpg
+3615982237552954784,KOI Thé,Trà Vải Hạt Sen,55000,https://images.foody.vn/res/g67/664629/s750x750/2ed1180e-97f1-43d6-bcc5-94bea246d686.jpg
+3615982237552954784,KOI Thé,Trà Sữa Nướng,35000,https://images.foody.vn/res/g67/664629/s750x750/2349472d-0e94-4e64-9458-88b0d8be27ae.jpg
+3615982237552954784,KOI Thé,Trà Đào Cam Sả,45000,https://images.foody.vn/res/g67/664629/s750x750/d3f33bcb-98ad-4c7b-895d-dbe1807f5826.jpg
+3615982237552954784,KOI Thé,Trà Sữa Ruby,50000,https://images.foody.vn/res/g67/664629/s750x750/bf777630-03fa-4a10-acfd-a2a71e442b14.jpg
+3615982237552954784,KOI Thé,Yaourt Kem Trứng Nướng,69000,https://images.foody.vn/res/g67/664629/s750x750/074b7c98-b241-45f4-3fe9-06e66c5f0e2e.jpg
+3615982237552954784,KOI Thé,Trà Dâu Nam Mỹ Chanh Vàng,55000,https://images.foody.vn/res/g67/664629/s750x750/cae6ed4a-5854-4737-a9fe-8f5cd9d26166.jpg
+3615982237552954784,KOI Thé,Trà Xoài Hawaii Chanh Vàng,52000,https://images.foody.vn/res/g67/664629/s750x750/0b299651-3d86-4b12-8217-4364b594cb01.jpg
+3615982237552954784,KOI Thé,Traà Olong Nho Nam Mỹ,45000,https://images.foody.vn/res/g67/664629/s120x120/1a83d426-273c-4f01-adad-0fc3926724d6.jpg
+3615982237552954784,KOI Thé,Sữa tươi trân châu đường đen,45000,https://images.foody.vn/res/g67/664629/s120x120/c6b8fd65-0db3-4939-be6a-dd391a9803f6.jpg
+2097810288464482195,LAHA COFFEE,Trà Hoa Hồng,45000,https://phuclong.com.vn/uploads/dish/4eef9292db8810-trhoahngphclong.png
+2097810288464482195,LAHA COFFEE,Trà Ô Long Dâu,45000,https://phuclong.com.vn/uploads/dish/23fbc8fc31884c-dup.png
+2097810288464482195,LAHA COFFEE,Trà Xanh Đá Xay,55000,https://phuclong.com.vn/uploads/dish/010dda166794bc-trxanhxayphclong.png
+2097810288464482195,LAHA COFFEE,Trà Đào Đá Xay,65000,https://phuclong.com.vn/uploads/dish/83168aba00828b-troxayphclong.png
+2097810288464482195,LAHA COFFEE,Cà Phê Dừa Xay Và Thạch,65000,https://phuclong.com.vn/uploads/dish/a2ec40df95344c-cphdaxayvthchphclong.png
+2097810288464482195,LAHA COFFEE,Sô-Cô-La Cà Phê Đá Xay,55000,https://phuclong.com.vn/uploads/dish/4726c0494a3e25-sclacphxay.png
+2097810288464482195,LAHA COFFEE,Trà Xanh Xay Cùng Hạnh Nhân,65000,https://phuclong.com.vn/uploads/dish/ad31f3f0f2ec87-trxanhxayalmond.png
+2097810288464482195,LAHA COFFEE,Cà Phê Cappuccino Đá Xay,55000,https://phuclong.com.vn/uploads/dish/db0558db96dcb4-trsacphvikemti.png
+2097810288464482195,LAHA COFFEE,Sô-Cô-La Trắng Đá Xay,55000,https://phuclong.com.vn/uploads/dish/43c58e2d748182-sclatrngxay.png
+2097810288464482195,LAHA COFFEE,Táo Và Dâu Ép,50000,https://phuclong.com.vn/uploads/dish/82d9495c75a9f0-tovdup.jpg
+5994303900897369131,LEE KIM CHI COFFEE,Trà vải mỹ nhân,45000,http://www.tasterschoice.com.vn/storage/20770212_250092775501229_2766729946876535207_n.jpg
+5994303900897369131,LEE KIM CHI COFFEE,Matcha Đậu Đỏ,50000,http://www.tasterschoice.com.vn/storage/IMG_2609.jpg
+5994303900897369131,LEE KIM CHI COFFEE,Trà sữa đào đỏ,45000,http://www.tasterschoice.com.vn/storage/25659956_300883167088856_7380228945219067852_n.jpg
+5994303900897369131,LEE KIM CHI COFFEE,Matcha cake cream,50000,http://tasterschoice.vn/storage/IMG_7052.jpg
+5994303900897369131,LEE KIM CHI COFFEE,Kem cheese xoài,45000,http://tasterschoice.vn/storage/IMG_7087.jpg
+5994303900897369131,LEE KIM CHI COFFEE,Trà táo đỏ kem cheese,40000,http://www.tasterschoice.com.vn/storage/25550529_301229490387557_4778200223180466463_n.jpg
+5994303900897369131,LEE KIM CHI COFFEE,Trà đen kem cheese,40000,http://royaltea.com.vn/wp-content/uploads/2017/05/18-600x450.jpg
+5994303900897369131,LEE KIM CHI COFFEE,Trà kem sữa sầu riêng,45000,http://www.tasterschoice.com.vn/storage/23561764_283783062132200_3162100881147851816_n.jpg
+5994303900897369131,LEE KIM CHI COFFEE,Trà sữa Cake Cream,45000,http://www.tasterschoice.com.vn/storage/23659279_285968751913631_2523218889699768935_n.jpg
+5994303900897369131,LEE KIM CHI COFFEE,Trà xoài nhiệt đới,48000,https://product.hstatic.net/1000075078/product/tra_dao_cam_sa_on_bg_master.jpg
+913123953496470035,LIBB HOUSE COFFEE,Trà Hoa Hồng,45000,https://phuclong.com.vn/uploads/dish/4eef9292db8810-trhoahngphclong.png
+913123953496470035,LIBB HOUSE COFFEE,Trà Ô Long Dâu,45000,https://phuclong.com.vn/uploads/dish/23fbc8fc31884c-dup.png
+913123953496470035,LIBB HOUSE COFFEE,Trà Xanh Đá Xay,55000,https://phuclong.com.vn/uploads/dish/010dda166794bc-trxanhxayphclong.png
+913123953496470035,LIBB HOUSE COFFEE,Trà Đào Đá Xay,65000,https://phuclong.com.vn/uploads/dish/83168aba00828b-troxayphclong.png
+913123953496470035,LIBB HOUSE COFFEE,Cà Phê Dừa Xay Và Thạch,65000,https://phuclong.com.vn/uploads/dish/a2ec40df95344c-cphdaxayvthchphclong.png
+913123953496470035,LIBB HOUSE COFFEE,Sô-Cô-La Cà Phê Đá Xay,55000,https://phuclong.com.vn/uploads/dish/4726c0494a3e25-sclacphxay.png
+913123953496470035,LIBB HOUSE COFFEE,Trà Xanh Xay Cùng Hạnh Nhân,65000,https://phuclong.com.vn/uploads/dish/ad31f3f0f2ec87-trxanhxayalmond.png
+913123953496470035,LIBB HOUSE COFFEE,Cà Phê Cappuccino Đá Xay,55000,https://phuclong.com.vn/uploads/dish/db0558db96dcb4-trsacphvikemti.png
+913123953496470035,LIBB HOUSE COFFEE,Sô-Cô-La Trắng Đá Xay,55000,https://phuclong.com.vn/uploads/dish/43c58e2d748182-sclatrngxay.png
+913123953496470035,LIBB HOUSE COFFEE,Táo Và Dâu Ép,50000,https://phuclong.com.vn/uploads/dish/82d9495c75a9f0-tovdup.jpg
+6243076211879184331,MR GOOD TEA,Matcha Trân Châu Đường Đen,65000,https://images.foody.vn/res/g73/725994/s750x750/2018615104534-matcha-sua-tran-chau-duong-den.jpg
+6243076211879184331,MR GOOD TEA,Sữa tươi trân châu đường đen,62000,https://images.foody.vn/res/g73/725994/s750x750/2018615104713-tra-sua-tran-chau-duong-den.jpg
+6243076211879184331,MR GOOD TEA,Thanh Trà Nho,55000,https://images.foody.vn/res/g73/725994/s750x750/20181119181814-thanh-tra-nho.jpg
+6243076211879184331,MR GOOD TEA,Sữa Xoài Đá Xay,60000,https://images.foody.vn/res/g73/725994/s750x750/2018111918178-sua-xoai.jpg
+6243076211879184331,MR GOOD TEA,Latte Trân Châu Đường Đen,75000,https://images.foody.vn/res/g73/725994/s750x750/b5f99a6d-7f3a-4170-3a21-027ad9b0219b.jpg
+6243076211879184331,MR GOOD TEA,Sữa tươi Kem Trứng Trân Châu Đường Đen,65000,https://images.foody.vn/res/g73/725994/s750x750/b5f99a6d-7f3a-4170-3a21-027ad9b0219b.jpg
+6243076211879184331,MR GOOD TEA,Cacao Trân Châu Đường Đen,65000,https://images.foody.vn/res/g73/725994/s750x750/2018615105443-cacao.jpg
+6243076211879184331,MR GOOD TEA,Lục trà chanh dây thạch dừa,59000,https://images.foody.vn/res/g73/725994/s750x750/2018615103856-luc-tra-chanh-day-thach-dua-2-.jpg
+6243076211879184331,MR GOOD TEA,Nước Táo Nha Đam,55000,https://images.foody.vn/res/g73/725994/s750x750/2018615103941-nuoc-tao-nha-dam-2-.jpg
+6243076211879184331,MR GOOD TEA,Sữa Chanh Trân Châu,59000,https://images.foody.vn/res/g73/725994/s750x750/2018615103552-sua-chanh-2-.jpg
+4637408188978709949,MR SẠCH COFFEE,Trà Hoa Hồng,45000,https://phuclong.com.vn/uploads/dish/4eef9292db8810-trhoahngphclong.png
+4637408188978709949,MR SẠCH COFFEE,Trà Ô Long Dâu,45000,https://phuclong.com.vn/uploads/dish/23fbc8fc31884c-dup.png
+4637408188978709949,MR SẠCH COFFEE,Trà Xanh Đá Xay,55000,https://phuclong.com.vn/uploads/dish/010dda166794bc-trxanhxayphclong.png
+4637408188978709949,MR SẠCH COFFEE,Trà Đào Đá Xay,65000,https://phuclong.com.vn/uploads/dish/83168aba00828b-troxayphclong.png
+4637408188978709949,MR SẠCH COFFEE,Cà Phê Dừa Xay Và Thạch,65000,https://phuclong.com.vn/uploads/dish/a2ec40df95344c-cphdaxayvthchphclong.png
+4637408188978709949,MR SẠCH COFFEE,Sô-Cô-La Cà Phê Đá Xay,55000,https://phuclong.com.vn/uploads/dish/4726c0494a3e25-sclacphxay.png
+4637408188978709949,MR SẠCH COFFEE,Trà Xanh Xay Cùng Hạnh Nhân,65000,https://phuclong.com.vn/uploads/dish/ad31f3f0f2ec87-trxanhxayalmond.png
+4637408188978709949,MR SẠCH COFFEE,Cà Phê Cappuccino Đá Xay,55000,https://phuclong.com.vn/uploads/dish/db0558db96dcb4-trsacphvikemti.png
+4637408188978709949,MR SẠCH COFFEE,Sô-Cô-La Trắng Đá Xay,55000,https://phuclong.com.vn/uploads/dish/43c58e2d748182-sclatrngxay.png
+4637408188978709949,MR SẠCH COFFEE,Táo Và Dâu Ép,50000,https://phuclong.com.vn/uploads/dish/82d9495c75a9f0-tovdup.jpg
+7006999597222169608,My Life Coffee,Matcha Trân Châu Đường Đen,65000,https://images.foody.vn/res/g73/725994/s750x750/2018615104534-matcha-sua-tran-chau-duong-den.jpg
+7006999597222169608,My Life Coffee,Sữa tươi trân châu đường đen,62000,https://images.foody.vn/res/g73/725994/s750x750/2018615104713-tra-sua-tran-chau-duong-den.jpg
+7006999597222169608,My Life Coffee,Thanh Trà Nho,55000,https://images.foody.vn/res/g73/725994/s750x750/20181119181814-thanh-tra-nho.jpg
+7006999597222169608,My Life Coffee,Sữa Xoài Đá Xay,60000,https://images.foody.vn/res/g73/725994/s750x750/2018111918178-sua-xoai.jpg
+7006999597222169608,My Life Coffee,Latte Trân Châu Đường Đen,75000,https://images.foody.vn/res/g73/725994/s750x750/b5f99a6d-7f3a-4170-3a21-027ad9b0219b.jpg
+7006999597222169608,My Life Coffee,Sữa tươi Kem Trứng Trân Châu Đường Đen,65000,https://images.foody.vn/res/g73/725994/s750x750/b5f99a6d-7f3a-4170-3a21-027ad9b0219b.jpg
+7006999597222169608,My Life Coffee,Cacao Trân Châu Đường Đen,65000,https://images.foody.vn/res/g73/725994/s750x750/2018615105443-cacao.jpg
+7006999597222169608,My Life Coffee,Lục trà chanh dây thạch dừa,59000,https://images.foody.vn/res/g73/725994/s750x750/2018615103856-luc-tra-chanh-day-thach-dua-2-.jpg
+7006999597222169608,My Life Coffee,Nước Táo Nha Đam,55000,https://images.foody.vn/res/g73/725994/s750x750/2018615103941-nuoc-tao-nha-dam-2-.jpg
+7006999597222169608,My Life Coffee,Sữa Chanh Trân Châu,59000,https://images.foody.vn/res/g73/725994/s750x750/2018615103552-sua-chanh-2-.jpg
+3771801775643244829,Passio,Trà vải mỹ nhân,45000,http://www.tasterschoice.com.vn/storage/20770212_250092775501229_2766729946876535207_n.jpg
+3771801775643244829,Passio,Matcha Đậu Đỏ,50000,http://www.tasterschoice.com.vn/storage/IMG_2609.jpg
+3771801775643244829,Passio,Trà sữa đào đỏ,45000,http://www.tasterschoice.com.vn/storage/25659956_300883167088856_7380228945219067852_n.jpg
+3771801775643244829,Passio,Matcha cake cream,50000,http://tasterschoice.vn/storage/IMG_7052.jpg
+3771801775643244829,Passio,Kem cheese xoài,45000,http://tasterschoice.vn/storage/IMG_7087.jpg
+3771801775643244829,Passio,Trà táo đỏ kem cheese,40000,http://www.tasterschoice.com.vn/storage/25550529_301229490387557_4778200223180466463_n.jpg
+3771801775643244829,Passio,Trà đen kem cheese,40000,http://royaltea.com.vn/wp-content/uploads/2017/05/18-600x450.jpg
+3771801775643244829,Passio,Trà kem sữa sầu riêng,45000,http://www.tasterschoice.com.vn/storage/23561764_283783062132200_3162100881147851816_n.jpg
+3771801775643244829,Passio,Trà sữa Cake Cream,45000,http://www.tasterschoice.com.vn/storage/23659279_285968751913631_2523218889699768935_n.jpg
+3771801775643244829,Passio,Trà xoài nhiệt đới,48000,https://product.hstatic.net/1000075078/product/tra_dao_cam_sa_on_bg_master.jpg
+3398611740160718989,Phúc Long Coffee & Tea House,Trà Hoa Hồng,45000,https://phuclong.com.vn/uploads/dish/4eef9292db8810-trhoahngphclong.png
+3398611740160718989,Phúc Long Coffee & Tea House,Trà Ô Long Dâu,45000,https://phuclong.com.vn/uploads/dish/23fbc8fc31884c-dup.png
+3398611740160718989,Phúc Long Coffee & Tea House,Trà Xanh Đá Xay,55000,https://phuclong.com.vn/uploads/dish/010dda166794bc-trxanhxayphclong.png
+3398611740160718989,Phúc Long Coffee & Tea House,Trà Đào Đá Xay,65000,https://phuclong.com.vn/uploads/dish/83168aba00828b-troxayphclong.png
+3398611740160718989,Phúc Long Coffee & Tea House,Cà Phê Dừa Xay Và Thạch,65000,https://phuclong.com.vn/uploads/dish/a2ec40df95344c-cphdaxayvthchphclong.png
+3398611740160718989,Phúc Long Coffee & Tea House,Sô-Cô-La Cà Phê Đá Xay,55000,https://phuclong.com.vn/uploads/dish/4726c0494a3e25-sclacphxay.png
+3398611740160718989,Phúc Long Coffee & Tea House,Trà Xanh Xay Cùng Hạnh Nhân,65000,https://phuclong.com.vn/uploads/dish/ad31f3f0f2ec87-trxanhxayalmond.png
+3398611740160718989,Phúc Long Coffee & Tea House,Cà Phê Cappuccino Đá Xay,55000,https://phuclong.com.vn/uploads/dish/db0558db96dcb4-trsacphvikemti.png
+3398611740160718989,Phúc Long Coffee & Tea House,Sô-Cô-La Trắng Đá Xay,55000,https://phuclong.com.vn/uploads/dish/43c58e2d748182-sclatrngxay.png
+3398611740160718989,Phúc Long Coffee & Tea House,Táo Và Dâu Ép,50000,https://phuclong.com.vn/uploads/dish/82d9495c75a9f0-tovdup.jpg
+4574040863613308486,R&B Tea,Trà vải mỹ nhân,45000,http://www.tasterschoice.com.vn/storage/20770212_250092775501229_2766729946876535207_n.jpg
+4574040863613308486,R&B Tea,Matcha Đậu Đỏ,50000,http://www.tasterschoice.com.vn/storage/IMG_2609.jpg
+4574040863613308486,R&B Tea,Trà sữa đào đỏ,45000,http://www.tasterschoice.com.vn/storage/25659956_300883167088856_7380228945219067852_n.jpg
+4574040863613308486,R&B Tea,Matcha cake cream,50000,http://tasterschoice.vn/storage/IMG_7052.jpg
+4574040863613308486,R&B Tea,Kem cheese xoài,45000,http://tasterschoice.vn/storage/IMG_7087.jpg
+4574040863613308486,R&B Tea,Trà táo đỏ kem cheese,40000,http://www.tasterschoice.com.vn/storage/25550529_301229490387557_4778200223180466463_n.jpg
+4574040863613308486,R&B Tea,Trà đen kem cheese,40000,http://royaltea.com.vn/wp-content/uploads/2017/05/18-600x450.jpg
+4574040863613308486,R&B Tea,Trà kem sữa sầu riêng,45000,http://www.tasterschoice.com.vn/storage/23561764_283783062132200_3162100881147851816_n.jpg
+4574040863613308486,R&B Tea,Trà sữa Cake Cream,45000,http://www.tasterschoice.com.vn/storage/23659279_285968751913631_2523218889699768935_n.jpg
+4574040863613308486,R&B Tea,Trà xoài nhiệt đới,48000,https://product.hstatic.net/1000075078/product/tra_dao_cam_sa_on_bg_master.jpg
+8622242012958029898,ROYAL TEA,Hồng Trà Royal Kem Cheese,47000,http://royaltea.com.vn/wp-content/uploads/2017/05/20-600x450.jpg
+8622242012958029898,ROYAL TEA,Trà Earl Grey Kem Cheese,47000,http://royaltea.com.vn/wp-content/uploads/2017/05/18-600x450.jpg
+8622242012958029898,ROYAL TEA,Trà Ô Long Royal Kem Cheese,53000,http://royaltea.com.vn/wp-content/uploads/2017/04/jj-600x450.jpg
+8622242012958029898,ROYAL TEA,Trà Sữa Khoai Môn Tươi,48000,http://royaltea.com.vn/wp-content/uploads/2017/12/ts-khoai-m%C3%B4n-1-600x600.jpg
+8622242012958029898,ROYAL TEA,Trà Sữa Kem Cheese,45000,http://royaltea.com.vn/wp-content/uploads/2017/05/13-600x450.jpg
+8622242012958029898,ROYAL TEA,Trà Sữa Trân Châu Cake Cream,53000,http://royaltea.com.vn/wp-content/uploads/2017/05/30-600x450.jpg
+8622242012958029898,ROYAL TEA,Trà Sữa Double Oreo,43000,http://royaltea.com.vn/wp-content/uploads/2017/05/41-600x450.jpg
+8622242012958029898,ROYAL TEA,Trà Đen Chanh Leo Nước Ổi,43000,http://royaltea.com.vn/wp-content/uploads/2017/05/8-600x450.jpg
+8622242012958029898,ROYAL TEA,Trà Xanh Chanh Leo Kim Quất Mật Ong,43000,http://royaltea.com.vn/wp-content/uploads/2017/05/Post-2-600x600.gif
+8622242012958029898,ROYAL TEA,Trà Xanh Kiwi Newzealand,53000,http://royaltea.com.vn/wp-content/uploads/2018/07/kiwi1.jpg
+3811078734948900116,Sawadee,Cherry Macchiato,55000,https://product.hstatic.net/1000075078/product/cherry_mac_6a3403fdb832464da88de8c6e6ddf662_master.jpg
+3811078734948900116,Sawadee,Lemon Macchiato,55000,https://product.hstatic.net/1000075078/product/xoai_mac_c4534cc7607f4d58addf470a162e8359_master.jpg
+3811078734948900116,Sawadee,Cold Brew Milk Macchiato,50000,https://product.hstatic.net/1000075078/product/coldbrewmacchiato_af7dc44ed71b4856bfe48a756ed939e6_master.jpg
+3811078734948900116,Sawadee,Phuc Bon Tu Cam Da Xay,59000,https://product.hstatic.net/1000075078/product/daxay_raspberry_01685c63649740678352a348f8b281a1_master.png
+3811078734948900116,Sawadee,Cold Brew Phuc Bon Tu,50000,https://product.hstatic.net/1000075078/product/coldbrew_raspberry_ac577fc483484f0cb4e35efe6bf14426_master.png
+3811078734948900116,Sawadee,Caramel Macchiato,55000,https://product.hstatic.net/1000075078/product/caramel_macchiato_b6f694f469794e12b04a91845f5fce2d_master.jpg
+3811078734948900116,Sawadee,Tra Dao Cam Sa,45000,https://product.hstatic.net/1000075078/product/tra_dao_cam_sa_on_bg_master.jpg
+3811078734948900116,Sawadee,Ca Phe Den,29000,https://product.hstatic.net/1000075078/product/vnese_coffee_master.jpg
+3811078734948900116,Sawadee,Cappucino,45000,https://product.hstatic.net/1000075078/product/cappuccino_master.jpg
+3811078734948900116,Sawadee,Latte Matcha,59000,https://product.hstatic.net/1000075078/product/matcha_latte_master.jpg
+5350129378332776599,Sharetea,Strawberry Earl Grey Latte,60000,https://gongcha.com.vn/wp-content/uploads/2018/08/Strawberry-Earl-grey-latte.png
+5350129378332776599,Sharetea,Caramel Coffee Smoothie,58000,https://gongcha.com.vn/wp-content/uploads/2019/07/Ca-phe-da-xay-popcorn.png
+5350129378332776599,Sharetea,Trà Phổ Nhĩ Mật Ong Latte,59000,https://gongcha.com.vn/wp-content/uploads/2019/10/LATTE-TRA-BO-LUY-1400x1400.png
+5350129378332776599,Sharetea,Caramel Oolong Smoothie,58000,https://gongcha.com.vn/wp-content/uploads/2019/07/Oolong-da-xay-popcorn.png
+5350129378332776599,Sharetea,Trà Sữa Đông Phương Mỹ Nhân Trân Châu Trắng,66000,https://gongcha.com.vn/wp-content/uploads/2019/04/TS-Dong-Phuong-My-Nhan-tc-1.png
+5350129378332776599,Sharetea,Trà Bích Loa Xuân,53000,https://gongcha.com.vn/wp-content/uploads/2019/04/Bich-Loa-Xuan.png
+5350129378332776599,Sharetea,Matcha Strawberry Cream,58000,https://gongcha.com.vn/wp-content/uploads/2019/03/Matcha-Milk-Tea-with-Strawberry-Milkfoam.png
+5350129378332776599,Sharetea,Caramel Coffee Latte,59000,https://gongcha.com.vn/wp-content/uploads/2019/07/Ca-phe-popcorn-latte.png
+5350129378332776599,Sharetea,Mango Matcha Latte,57000,https://gongcha.com.vn/wp-content/uploads/2018/06/Mango-Matcha-Latte.png
+5350129378332776599,Sharetea,Trà Xanh Gong Cha,51000,https://gongcha.com.vn/wp-content/uploads/2018/02/Tr%C3%A0-Xanh-Milkfoam-2.png
+5658857270301870068,Smoothie,Trà Hoa Hồng,45000,https://phuclong.com.vn/uploads/dish/4eef9292db8810-trhoahngphclong.png
+5658857270301870068,Smoothie,Trà Ô Long Dâu,45000,https://phuclong.com.vn/uploads/dish/23fbc8fc31884c-dup.png
+5658857270301870068,Smoothie,Trà Xanh Đá Xay,55000,https://phuclong.com.vn/uploads/dish/010dda166794bc-trxanhxayphclong.png
+5658857270301870068,Smoothie,Trà Đào Đá Xay,65000,https://phuclong.com.vn/uploads/dish/83168aba00828b-troxayphclong.png
+5658857270301870068,Smoothie,Cà Phê Dừa Xay Và Thạch,65000,https://phuclong.com.vn/uploads/dish/a2ec40df95344c-cphdaxayvthchphclong.png
+5658857270301870068,Smoothie,Sô-Cô-La Cà Phê Đá Xay,55000,https://phuclong.com.vn/uploads/dish/4726c0494a3e25-sclacphxay.png
+5658857270301870068,Smoothie,Trà Xanh Xay Cùng Hạnh Nhân,65000,https://phuclong.com.vn/uploads/dish/ad31f3f0f2ec87-trxanhxayalmond.png
+5658857270301870068,Smoothie,Cà Phê Cappuccino Đá Xay,55000,https://phuclong.com.vn/uploads/dish/db0558db96dcb4-trsacphvikemti.png
+5658857270301870068,Smoothie,Sô-Cô-La Trắng Đá Xay,55000,https://phuclong.com.vn/uploads/dish/43c58e2d748182-sclatrngxay.png
+5658857270301870068,Smoothie,Táo Và Dâu Ép,50000,https://phuclong.com.vn/uploads/dish/82d9495c75a9f0-tovdup.jpg
+7261616585863472745,Soya Garden,Trà Hoa Hồng,45000,https://phuclong.com.vn/uploads/dish/4eef9292db8810-trhoahngphclong.png
+7261616585863472745,Soya Garden,Trà Ô Long Dâu,45000,https://phuclong.com.vn/uploads/dish/23fbc8fc31884c-dup.png
+7261616585863472745,Soya Garden,Trà Xanh Đá Xay,55000,https://phuclong.com.vn/uploads/dish/010dda166794bc-trxanhxayphclong.png
+7261616585863472745,Soya Garden,Trà Đào Đá Xay,65000,https://phuclong.com.vn/uploads/dish/83168aba00828b-troxayphclong.png
+7261616585863472745,Soya Garden,Cà Phê Dừa Xay Và Thạch,65000,https://phuclong.com.vn/uploads/dish/a2ec40df95344c-cphdaxayvthchphclong.png
+7261616585863472745,Soya Garden,Sô-Cô-La Cà Phê Đá Xay,55000,https://phuclong.com.vn/uploads/dish/4726c0494a3e25-sclacphxay.png
+7261616585863472745,Soya Garden,Trà Xanh Xay Cùng Hạnh Nhân,65000,https://phuclong.com.vn/uploads/dish/ad31f3f0f2ec87-trxanhxayalmond.png
+7261616585863472745,Soya Garden,Cà Phê Cappuccino Đá Xay,55000,https://phuclong.com.vn/uploads/dish/db0558db96dcb4-trsacphvikemti.png
+7261616585863472745,Soya Garden,Sô-Cô-La Trắng Đá Xay,55000,https://phuclong.com.vn/uploads/dish/43c58e2d748182-sclatrngxay.png
+7261616585863472745,Soya Garden,Táo Và Dâu Ép,50000,https://phuclong.com.vn/uploads/dish/82d9495c75a9f0-tovdup.jpg
+9045274477408763399,THE ALLEY,Matcha Trân Châu Đường Đen,65000,https://images.foody.vn/res/g73/725994/s750x750/2018615104534-matcha-sua-tran-chau-duong-den.jpg
+9045274477408763399,THE ALLEY,Sữa tươi trân châu đường đen,62000,https://images.foody.vn/res/g73/725994/s750x750/2018615104713-tra-sua-tran-chau-duong-den.jpg
+9045274477408763399,THE ALLEY,Thanh Trà Nho,55000,https://images.foody.vn/res/g73/725994/s750x750/20181119181814-thanh-tra-nho.jpg
+9045274477408763399,THE ALLEY,Sữa Xoài Đá Xay,60000,https://images.foody.vn/res/g73/725994/s750x750/2018111918178-sua-xoai.jpg
+9045274477408763399,THE ALLEY,Latte Trân Châu Đường Đen,75000,https://images.foody.vn/res/g73/725994/s750x750/b5f99a6d-7f3a-4170-3a21-027ad9b0219b.jpg
+9045274477408763399,THE ALLEY,Sữa tươi Kem Trứng Trân Châu Đường Đen,65000,https://images.foody.vn/res/g73/725994/s750x750/b5f99a6d-7f3a-4170-3a21-027ad9b0219b.jpg
+9045274477408763399,THE ALLEY,Cacao Trân Châu Đường Đen,65000,https://images.foody.vn/res/g73/725994/s750x750/2018615105443-cacao.jpg
+9045274477408763399,THE ALLEY,Lục trà chanh dây thạch dừa,59000,https://images.foody.vn/res/g73/725994/s750x750/2018615103856-luc-tra-chanh-day-thach-dua-2-.jpg
+9045274477408763399,THE ALLEY,Nước Táo Nha Đam,55000,https://images.foody.vn/res/g73/725994/s750x750/2018615103941-nuoc-tao-nha-dam-2-.jpg
+9045274477408763399,THE ALLEY,Sữa Chanh Trân Châu,59000,https://images.foody.vn/res/g73/725994/s750x750/2018615103552-sua-chanh-2-.jpg
+7456266269222559602,THE HANGOVER,Hồng Trà Royal Kem Cheese,47000,http://royaltea.com.vn/wp-content/uploads/2017/05/20-600x450.jpg
+7456266269222559602,THE HANGOVER,Trà Earl Grey Kem Cheese,47000,http://royaltea.com.vn/wp-content/uploads/2017/05/18-600x450.jpg
+7456266269222559602,THE HANGOVER,Trà Ô Long Royal Kem Cheese,53000,http://royaltea.com.vn/wp-content/uploads/2017/04/jj-600x450.jpg
+7456266269222559602,THE HANGOVER,Trà Sữa Khoai Môn Tươi,48000,http://royaltea.com.vn/wp-content/uploads/2017/12/ts-khoai-m%C3%B4n-1-600x600.jpg
+7456266269222559602,THE HANGOVER,Trà Sữa Kem Cheese,45000,http://royaltea.com.vn/wp-content/uploads/2017/05/13-600x450.jpg
+7456266269222559602,THE HANGOVER,Trà Sữa Trân Châu Cake Cream,53000,http://royaltea.com.vn/wp-content/uploads/2017/05/30-600x450.jpg
+7456266269222559602,THE HANGOVER,Trà Sữa Double Oreo,43000,http://royaltea.com.vn/wp-content/uploads/2017/05/41-600x450.jpg
+7456266269222559602,THE HANGOVER,Trà Đen Chanh Leo Nước Ổi,43000,http://royaltea.com.vn/wp-content/uploads/2017/05/8-600x450.jpg
+7456266269222559602,THE HANGOVER,Trà Xanh Chanh Leo Kim Quất Mật Ong,43000,http://royaltea.com.vn/wp-content/uploads/2017/05/Post-2-600x600.gif
+7456266269222559602,THE HANGOVER,Trà Xanh Kiwi Newzealand,53000,http://royaltea.com.vn/wp-content/uploads/2018/07/kiwi1.jpg
+3739863709641733769,TRÀ SỮA KUBIN,Cherry Macchiato,55000,https://product.hstatic.net/1000075078/product/cherry_mac_6a3403fdb832464da88de8c6e6ddf662_master.jpg
+3739863709641733769,TRÀ SỮA KUBIN,Lemon Macchiato,55000,https://product.hstatic.net/1000075078/product/xoai_mac_c4534cc7607f4d58addf470a162e8359_master.jpg
+3739863709641733769,TRÀ SỮA KUBIN,Cold Brew Milk Macchiato,50000,https://product.hstatic.net/1000075078/product/coldbrewmacchiato_af7dc44ed71b4856bfe48a756ed939e6_master.jpg
+3739863709641733769,TRÀ SỮA KUBIN,Phuc Bon Tu Cam Da Xay,59000,https://product.hstatic.net/1000075078/product/daxay_raspberry_01685c63649740678352a348f8b281a1_master.png
+3739863709641733769,TRÀ SỮA KUBIN,Cold Brew Phuc Bon Tu,50000,https://product.hstatic.net/1000075078/product/coldbrew_raspberry_ac577fc483484f0cb4e35efe6bf14426_master.png
+3739863709641733769,TRÀ SỮA KUBIN,Caramel Macchiato,55000,https://product.hstatic.net/1000075078/product/caramel_macchiato_b6f694f469794e12b04a91845f5fce2d_master.jpg
+3739863709641733769,TRÀ SỮA KUBIN,Tra Dao Cam Sa,45000,https://product.hstatic.net/1000075078/product/tra_dao_cam_sa_on_bg_master.jpg
+3739863709641733769,TRÀ SỮA KUBIN,Ca Phe Den,29000,https://product.hstatic.net/1000075078/product/vnese_coffee_master.jpg
+3739863709641733769,TRÀ SỮA KUBIN,Cappucino,45000,https://product.hstatic.net/1000075078/product/cappuccino_master.jpg
+3739863709641733769,TRÀ SỮA KUBIN,Latte Matcha,59000,https://product.hstatic.net/1000075078/product/matcha_latte_master.jpg
+5478110711664307154,Taster's Choice,Trà vải mỹ nhân,45000,http://www.tasterschoice.com.vn/storage/20770212_250092775501229_2766729946876535207_n.jpg
+5478110711664307154,Taster's Choice,Matcha Đậu Đỏ,50000,http://www.tasterschoice.com.vn/storage/IMG_2609.jpg
+5478110711664307154,Taster's Choice,Trà sữa đào đỏ,45000,http://www.tasterschoice.com.vn/storage/25659956_300883167088856_7380228945219067852_n.jpg
+5478110711664307154,Taster's Choice,Matcha cake cream,50000,http://tasterschoice.vn/storage/IMG_7052.jpg
+5478110711664307154,Taster's Choice,Kem cheese xoài,45000,http://tasterschoice.vn/storage/IMG_7087.jpg
+5478110711664307154,Taster's Choice,Trà táo đỏ kem cheese,40000,http://www.tasterschoice.com.vn/storage/25550529_301229490387557_4778200223180466463_n.jpg
+5478110711664307154,Taster's Choice,Trà đen kem cheese,40000,http://royaltea.com.vn/wp-content/uploads/2017/05/18-600x450.jpg
+5478110711664307154,Taster's Choice,Trà kem sữa sầu riêng,45000,http://www.tasterschoice.com.vn/storage/23561764_283783062132200_3162100881147851816_n.jpg
+5478110711664307154,Taster's Choice,Trà sữa Cake Cream,45000,http://www.tasterschoice.com.vn/storage/23659279_285968751913631_2523218889699768935_n.jpg
+5478110711664307154,Taster's Choice,Trà xoài nhiệt đới,48000,https://product.hstatic.net/1000075078/product/tra_dao_cam_sa_on_bg_master.jpg
+7341550893129842017,The Coffee House,Cherry Macchiato,55000,https://product.hstatic.net/1000075078/product/cherry_mac_6a3403fdb832464da88de8c6e6ddf662_master.jpg
+7341550893129842017,The Coffee House,Lemon Macchiato,55000,https://product.hstatic.net/1000075078/product/xoai_mac_c4534cc7607f4d58addf470a162e8359_master.jpg
+7341550893129842017,The Coffee House,Cold Brew Milk Macchiato,50000,https://product.hstatic.net/1000075078/product/coldbrewmacchiato_af7dc44ed71b4856bfe48a756ed939e6_master.jpg
+7341550893129842017,The Coffee House,Phuc Bon Tu Cam Da Xay,59000,https://product.hstatic.net/1000075078/product/daxay_raspberry_01685c63649740678352a348f8b281a1_master.png
+7341550893129842017,The Coffee House,Cold Brew Phuc Bon Tu,50000,https://product.hstatic.net/1000075078/product/coldbrew_raspberry_ac577fc483484f0cb4e35efe6bf14426_master.png
+7341550893129842017,The Coffee House,Caramel Macchiato,55000,https://product.hstatic.net/1000075078/product/caramel_macchiato_b6f694f469794e12b04a91845f5fce2d_master.jpg
+7341550893129842017,The Coffee House,Tra Dao Cam Sa,45000,https://product.hstatic.net/1000075078/product/tra_dao_cam_sa_on_bg_master.jpg
+7341550893129842017,The Coffee House,Ca Phe Den,29000,https://product.hstatic.net/1000075078/product/vnese_coffee_master.jpg
+7341550893129842017,The Coffee House,Cappucino,45000,https://product.hstatic.net/1000075078/product/cappuccino_master.jpg
+7341550893129842017,The Coffee House,Latte Matcha,59000,https://product.hstatic.net/1000075078/product/matcha_latte_master.jpg
+7870989550813941047,Tocotoco,Dâu tằm kem phô mai,48000,http://product.hstatic.net/1000360860/product/dautamkpm_9ed711a06bbe445caaa539c10c8521a8_master.jpg
+7870989550813941047,Tocotoco,SỮA TƯƠI CHÂN TRÂU ĐƯỜNG HỔ,48000,http://product.hstatic.net/1000360860/product/duongho_39b347d233284894acb95ae7f99a0af3_master.jpg
+7870989550813941047,Tocotoco,Cacao SOCOLA,45000,http://product.hstatic.net/1000360860/product/socola_911914e9f6674e39ab583a3024e0cd8c_master.jpg
+7870989550813941047,Tocotoco,HỒNG TRÀ KEM PHOMAI,45000,http://product.hstatic.net/1000360860/product/hongtrakpm_37b2bf93523342a08b2184bb71a7fc78_master.jpg
+7870989550813941047,Tocotoco,TRÀ NHẬT ĐẬU ĐỎ,49000,http://product.hstatic.net/1000360860/product/tsnhat_4c62a0a891b94700bedeeeeb5f6b8ab6_master.png
+7870989550813941047,Tocotoco,TRÀ SỮA PANDA,46000,http://product.hstatic.net/1000360860/product/panda_6dbae72a6f8e40deb8af33ecad39e515_master.jpg
+7870989550813941047,Tocotoco,TRÀ SỮA BẠC HÀ,40000,http://product.hstatic.net/1000360860/product/bacha_0977b3c4fef04f8d8e909ce579fb1c12_master.jpg
+7870989550813941047,Tocotoco,Yakult Chanh Leo,42000,http://product.hstatic.net/1000360860/product/yakult-cday_ff8300d49a714625aa63d1125d50ab0d_master.png
+7870989550813941047,Tocotoco,Yakult Trà Xanh,42000,http://product.hstatic.net/1000360860/product/yakult-tx_5e6fbdf13dab48f2b5c34fa9fcf6b034_master.png
+7870989550813941047,Tocotoco,Yakult Xoài,42000,http://product.hstatic.net/1000360860/product/yakult-xoai_1277bdb10d6e4c0db0c89645147a3ade_master.png
+6867086828130189483,Toocha,Dâu tằm kem phô mai,48000,http://product.hstatic.net/1000360860/product/dautamkpm_9ed711a06bbe445caaa539c10c8521a8_master.jpg
+6867086828130189483,Toocha,SỮA TƯƠI CHÂN TRÂU ĐƯỜNG HỔ,48000,http://product.hstatic.net/1000360860/product/duongho_39b347d233284894acb95ae7f99a0af3_master.jpg
+6867086828130189483,Toocha,Cacao SOCOLA,45000,http://product.hstatic.net/1000360860/product/socola_911914e9f6674e39ab583a3024e0cd8c_master.jpg
+6867086828130189483,Toocha,HỒNG TRÀ KEM PHOMAI,45000,http://product.hstatic.net/1000360860/product/hongtrakpm_37b2bf93523342a08b2184bb71a7fc78_master.jpg
+6867086828130189483,Toocha,TRÀ NHẬT ĐẬU ĐỎ,49000,http://product.hstatic.net/1000360860/product/tsnhat_4c62a0a891b94700bedeeeeb5f6b8ab6_master.png
+6867086828130189483,Toocha,TRÀ SỮA PANDA,46000,http://product.hstatic.net/1000360860/product/panda_6dbae72a6f8e40deb8af33ecad39e515_master.jpg
+6867086828130189483,Toocha,TRÀ SỮA BẠC HÀ,40000,http://product.hstatic.net/1000360860/product/bacha_0977b3c4fef04f8d8e909ce579fb1c12_master.jpg
+6867086828130189483,Toocha,Yakult Chanh Leo,42000,http://product.hstatic.net/1000360860/product/yakult-cday_ff8300d49a714625aa63d1125d50ab0d_master.png
+6867086828130189483,Toocha,Yakult Trà Xanh,42000,http://product.hstatic.net/1000360860/product/yakult-tx_5e6fbdf13dab48f2b5c34fa9fcf6b034_master.png
+6867086828130189483,Toocha,Yakult Xoài,42000,http://product.hstatic.net/1000360860/product/yakult-xoai_1277bdb10d6e4c0db0c89645147a3ade_master.png
+3797980347767515401,Trung Nguyên Legend,Trà sữa Cake Cream,45000,https://images.foody.vn/res/g67/664629/s750x750/dd26272b-3680-42f4-b4bd-95bb3e312d74.jpg
+3797980347767515401,Trung Nguyên Legend,Trà Vải Hạt Sen,55000,https://images.foody.vn/res/g67/664629/s750x750/2ed1180e-97f1-43d6-bcc5-94bea246d686.jpg
+3797980347767515401,Trung Nguyên Legend,Trà Sữa Nướng,35000,https://images.foody.vn/res/g67/664629/s750x750/2349472d-0e94-4e64-9458-88b0d8be27ae.jpg
+3797980347767515401,Trung Nguyên Legend,Trà Đào Cam Sả,45000,https://images.foody.vn/res/g67/664629/s750x750/d3f33bcb-98ad-4c7b-895d-dbe1807f5826.jpg
+3797980347767515401,Trung Nguyên Legend,Trà Sữa Ruby,50000,https://images.foody.vn/res/g67/664629/s750x750/bf777630-03fa-4a10-acfd-a2a71e442b14.jpg
+3797980347767515401,Trung Nguyên Legend,Yaourt Kem Trứng Nướng,69000,https://images.foody.vn/res/g67/664629/s750x750/074b7c98-b241-45f4-3fe9-06e66c5f0e2e.jpg
+3797980347767515401,Trung Nguyên Legend,Trà Dâu Nam Mỹ Chanh Vàng,55000,https://images.foody.vn/res/g67/664629/s750x750/cae6ed4a-5854-4737-a9fe-8f5cd9d26166.jpg
+3797980347767515401,Trung Nguyên Legend,Trà Xoài Hawaii Chanh Vàng,52000,https://images.foody.vn/res/g67/664629/s750x750/0b299651-3d86-4b12-8217-4364b594cb01.jpg
+3797980347767515401,Trung Nguyên Legend,Traà Olong Nho Nam Mỹ,45000,https://images.foody.vn/res/g67/664629/s120x120/1a83d426-273c-4f01-adad-0fc3926724d6.jpg
+3797980347767515401,Trung Nguyên Legend,Sữa tươi trân châu đường đen,45000,https://images.foody.vn/res/g67/664629/s120x120/c6b8fd65-0db3-4939-be6a-dd391a9803f6.jpg
+5891512199587776066,VIVO COFFEE,Trà vải mỹ nhân,45000,http://www.tasterschoice.com.vn/storage/20770212_250092775501229_2766729946876535207_n.jpg
+5891512199587776066,VIVO COFFEE,Matcha Đậu Đỏ,50000,http://www.tasterschoice.com.vn/storage/IMG_2609.jpg
+5891512199587776066,VIVO COFFEE,Trà sữa đào đỏ,45000,http://www.tasterschoice.com.vn/storage/25659956_300883167088856_7380228945219067852_n.jpg
+5891512199587776066,VIVO COFFEE,Matcha cake cream,50000,http://tasterschoice.vn/storage/IMG_7052.jpg
+5891512199587776066,VIVO COFFEE,Kem cheese xoài,45000,http://tasterschoice.vn/storage/IMG_7087.jpg
+5891512199587776066,VIVO COFFEE,Trà táo đỏ kem cheese,40000,http://www.tasterschoice.com.vn/storage/25550529_301229490387557_4778200223180466463_n.jpg
+5891512199587776066,VIVO COFFEE,Trà đen kem cheese,40000,http://royaltea.com.vn/wp-content/uploads/2017/05/18-600x450.jpg
+5891512199587776066,VIVO COFFEE,Trà kem sữa sầu riêng,45000,http://www.tasterschoice.com.vn/storage/23561764_283783062132200_3162100881147851816_n.jpg
+5891512199587776066,VIVO COFFEE,Trà sữa Cake Cream,45000,http://www.tasterschoice.com.vn/storage/23659279_285968751913631_2523218889699768935_n.jpg
+5891512199587776066,VIVO COFFEE,Trà xoài nhiệt đới,48000,https://product.hstatic.net/1000075078/product/tra_dao_cam_sa_on_bg_master.jpg
+5494030965430035042,YiFang Tea,Hồng Trà Royal Kem Cheese,47000,http://royaltea.com.vn/wp-content/uploads/2017/05/20-600x450.jpg
+5494030965430035042,YiFang Tea,Trà Earl Grey Kem Cheese,47000,http://royaltea.com.vn/wp-content/uploads/2017/05/18-600x450.jpg
+5494030965430035042,YiFang Tea,Trà Ô Long Royal Kem Cheese,53000,http://royaltea.com.vn/wp-content/uploads/2017/04/jj-600x450.jpg
+5494030965430035042,YiFang Tea,Trà Sữa Khoai Môn Tươi,48000,http://royaltea.com.vn/wp-content/uploads/2017/12/ts-khoai-m%C3%B4n-1-600x600.jpg
+5494030965430035042,YiFang Tea,Trà Sữa Kem Cheese,45000,http://royaltea.com.vn/wp-content/uploads/2017/05/13-600x450.jpg
+5494030965430035042,YiFang Tea,Trà Sữa Trân Châu Cake Cream,53000,http://royaltea.com.vn/wp-content/uploads/2017/05/30-600x450.jpg
+5494030965430035042,YiFang Tea,Trà Sữa Double Oreo,43000,http://royaltea.com.vn/wp-content/uploads/2017/05/41-600x450.jpg
+5494030965430035042,YiFang Tea,Trà Đen Chanh Leo Nước Ổi,43000,http://royaltea.com.vn/wp-content/uploads/2017/05/8-600x450.jpg
+5494030965430035042,YiFang Tea,Trà Xanh Chanh Leo Kim Quất Mật Ong,43000,http://royaltea.com.vn/wp-content/uploads/2017/05/Post-2-600x600.gif
+5494030965430035042,YiFang Tea,Trà Xanh Kiwi Newzealand,53000,http://royaltea.com.vn/wp-content/uploads/2018/07/kiwi1.jpg
+7310160001796817277,Đen Đá Coffee,Trà sữa Cake Cream,45000,https://images.foody.vn/res/g67/664629/s750x750/dd26272b-3680-42f4-b4bd-95bb3e312d74.jpg
+7310160001796817277,Đen Đá Coffee,Trà Vải Hạt Sen,55000,https://images.foody.vn/res/g67/664629/s750x750/2ed1180e-97f1-43d6-bcc5-94bea246d686.jpg
+7310160001796817277,Đen Đá Coffee,Trà Sữa Nướng,35000,https://images.foody.vn/res/g67/664629/s750x750/2349472d-0e94-4e64-9458-88b0d8be27ae.jpg
+7310160001796817277,Đen Đá Coffee,Trà Đào Cam Sả,45000,https://images.foody.vn/res/g67/664629/s750x750/d3f33bcb-98ad-4c7b-895d-dbe1807f5826.jpg
+7310160001796817277,Đen Đá Coffee,Trà Sữa Ruby,50000,https://images.foody.vn/res/g67/664629/s750x750/bf777630-03fa-4a10-acfd-a2a71e442b14.jpg
+7310160001796817277,Đen Đá Coffee,Yaourt Kem Trứng Nướng,69000,https://images.foody.vn/res/g67/664629/s750x750/074b7c98-b241-45f4-3fe9-06e66c5f0e2e.jpg
+7310160001796817277,Đen Đá Coffee,Trà Dâu Nam Mỹ Chanh Vàng,55000,https://images.foody.vn/res/g67/664629/s750x750/cae6ed4a-5854-4737-a9fe-8f5cd9d26166.jpg
+7310160001796817277,Đen Đá Coffee,Trà Xoài Hawaii Chanh Vàng,52000,https://images.foody.vn/res/g67/664629/s750x750/0b299651-3d86-4b12-8217-4364b594cb01.jpg
+7310160001796817277,Đen Đá Coffee,Traà Olong Nho Nam Mỹ,45000,https://images.foody.vn/res/g67/664629/s120x120/1a83d426-273c-4f01-adad-0fc3926724d6.jpg
+7310160001796817277,Đen Đá Coffee,Sữa tươi trân châu đường đen,45000,https://images.foody.vn/res/g67/664629/s120x120/c6b8fd65-0db3-4939-be6a-dd391a9803f6.jpg
