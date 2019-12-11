@@ -1,13 +1,13 @@
 from rest_framework.generics import ListAPIView
 from rest_framework.permissions import IsAuthenticated
-from ..serializers import ShopSerializer
+from ..serializers import ShopSerializer, ScanShopSerializer
 from ..models import Shop, Transaction, Profile
 from django.contrib.gis.geos import Point
 from django.contrib.gis.measure import Distance
 
 
 class ScanInRadius(ListAPIView):
-    serializer_class = ShopSerializer
+    serializer_class = ScanShopSerializer
     permission_classes = [IsAuthenticated]
 
     def get_queryset(self):
